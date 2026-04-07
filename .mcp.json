@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "apollo": {
+      "_comment": "Apollo MCP is installed via plugin: /plugin marketplace add apolloio/apollo-mcp-plugin && /plugin install apollo@apollo-plugin-marketplace",
+      "_comment2": "After install, authenticate via /mcp -> Apollo -> Authenticate"
+    },
+    "twain": {
+      "_comment": "Twain MCP via HTTP transport. Set up via CLI: claude mcp add --transport http twain https://mcp.api.twain.ai --header 'X-Api-Key: YOUR_TWAIN_API_KEY'",
+      "type": "http",
+      "url": "https://mcp.api.twain.ai",
+      "headers": {
+        "X-Api-Key": "${TWAIN_API_KEY}"
+      }
+    }
+  }
+}
