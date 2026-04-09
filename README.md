@@ -79,6 +79,19 @@ Place your leads CSV in `data/`. Required column: `email`. Optional columns:
 | `linkedin_url` | LinkedIn profile URL |
 | `phone` | Phone number |
 
+## Reply Notifications (n8n + Slack)
+
+Get notified in Slack when a recipient replies to your cold email campaign. An n8n workflow polls EmailBison every 5 minutes and posts a rich notification with lead details, campaign name, and reply snippet.
+
+**Setup:** See [`n8n/README.md`](n8n/README.md) for full instructions.
+
+**Quick start:**
+1. Start an n8n instance (`docker run -d -p 5678:5678 n8nio/n8n`)
+2. Add your EmailBison API token as a Header Auth credential in n8n
+3. Set your `SLACK_WEBHOOK_URL` as an n8n environment variable
+4. Import `n8n/workflows/emailbison-reply-slack-notification.json`
+5. Activate the workflow
+
 ## Project structure
 
 ```
@@ -88,6 +101,10 @@ Place your leads CSV in `data/`. Required column: `email`. Optional columns:
 ├── requirements.txt
 ├── run_campaign.py        # Main orchestrator script
 ├── data/                  # Place your CSV files here
+├── n8n/
+│   ├── README.md          # n8n + Slack setup guide
+│   └── workflows/
+│       └── emailbison-reply-slack-notification.json  # Importable n8n workflow
 └── src/
     ├── config.py          # Environment config loader
     ├── lead_loader.py     # CSV lead loader & normalizer
