@@ -1,0 +1,600 @@
+Company Name,Domain,Website,LinkedIn URL,Founded Year,Revenue,Revenue (USD),Tier,SaaS Status & Reason
+Braintrust,usebraintrust.com,https://www.usebraintrust.com,https://www.linkedin.com/company/usebraintrust,2018.0,54.9M,54900000.0,Tier 1,True
+edX,edx.org,https://www.edx.org,https://www.linkedin.com/school/edx,2012.0,210M,210000000.0,Tier 1,True
+WalkMe,walkme.com,https://www.walkme.com,https://www.linkedin.com/company/walkme,2011.0,268.4M,268416000.0,Tier 1,True
+Sprinto,sprinto.com,https://www.sprinto.com,https://www.linkedin.com/company/sprinto-com,2020.0,12M,12000000.0,Tier 1,True
+Lucidity,lucidity.cloud,https://www.lucidity.cloud,https://www.linkedin.com/company/lucidity-cloud,2021.0,18.9M,18900000.0,Tier 1,True
+SevenRooms,sevenrooms.com,https://www.sevenrooms.com,https://www.linkedin.com/company/sevenrooms,2011.0,43M,43000000.0,Tier 1,True
+Khoros,khoros.com,https://www.khoros.com,https://www.linkedin.com/company/khoros,2019.0,284.3M,284300000.0,Tier 1,True
+InVision,invisionapp.com,https://www.invisionapp.com,https://www.linkedin.com/company/invisionapp,2011.0,63.3M,63300000.0,Tier 1,True
+Versapay,versapay.com,https://www.versapay.com,https://www.linkedin.com/company/versapay,2006.0,42M,42000000.0,Tier 1,True
+PandaDoc,pandadoc.com,https://www.pandadoc.com,https://www.linkedin.com/company/pandadoc,2014.0,100M,100000000.0,Tier 1,True
+Capital Rx,judi.health,https://www.judi.health,https://www.linkedin.com/company/cap-rx,2017.0,31M,31000000.0,Tier 1,True
+Pendo.io,pendo.io,https://www.pendo.io,https://www.linkedin.com/company/pendo-io,2013.0,200M,200000000.0,Tier 1,True
+Cloudbeds,cloudbeds.com,https://www.cloudbeds.com,https://www.linkedin.com/company/cloudbeds,2012.0,84.8M,84800000.0,Tier 1,True
+Mindtickle,mindtickle.com,https://www.mindtickle.com,https://www.linkedin.com/company/mindtickle,2012.0,168.4M,168400000.0,Tier 1,True
+Rock Content,rockcontent.com,https://www.rockcontent.com,https://www.linkedin.com/company/rockcontent,2013.0,116.3M,116300000.0,Tier 1,True
+Sumo Logic,sumologic.com,https://www.sumologic.com,https://www.linkedin.com/company/sumo-logic,2010.0,300.7M,300668000.0,Tier 1,True
+Ontop,getontop.com,https://www.getontop.com,https://www.linkedin.com/company/ontopai,2020.0,15M,15000000.0,Tier 1,True
+AppDirect,appdirect.com,https://www.appdirect.com,https://www.linkedin.com/company/appdirect,2009.0,227M,227000000.0,Tier 1,True
+Abacus.AI,abacus.ai,https://www.abacus.ai,https://www.linkedin.com/company/abacusai,2019.0,30M,30000000.0,Tier 1,True
+Airtable,airtable.com,https://www.airtable.com,https://www.linkedin.com/company/airtable,2012.0,478M,478000000.0,Tier 1,True
+Paystack,paystack.com,https://www.paystack.com,https://www.linkedin.com/company/paystack,2015.0,51M,51000000.0,Tier 1,True
+Pixis,pixis.ai,https://www.pixis.ai,https://www.linkedin.com/company/pixisai,2018.0,55.5M,55500000.0,Tier 1,True
+Fortanix,fortanix.com,https://www.fortanix.com,https://www.linkedin.com/company/fortanix,2016.0,24.9M,24900000.0,Tier 1,True
+Chainalysis,chainalysis.com,https://www.chainalysis.com,https://www.linkedin.com/company/chainalysis,2014.0,325.1M,325100000.0,Tier 1,True
+"Drift, a Salesloft company",drift.com,https://www.drift.com,https://www.linkedin.com/company/drift,2015.0,135M,135000000.0,Tier 1,True
+Crunchbase,crunchbase.com,https://www.crunchbase.com,https://www.linkedin.com/company/crunchbase,2007.0,65M,65000000.0,Tier 1,True
+Handshake,joinhandshake.com,https://www.joinhandshake.com,https://www.linkedin.com/company/team-handshake,2014.0,280M,280000000.0,Tier 1,True
+Yellow.ai,yellow.ai,https://www.yellow.ai,https://www.linkedin.com/company/yellowdotai,2016.0,79.5M,79500000.0,Tier 1,True
+Acumatica,acumatica.com,https://www.acumatica.com,https://www.linkedin.com/company/acumatica,2008.0,90.2M,90150000.0,Tier 1,True
+Leena AI,leena.ai,https://www.leena.ai,https://www.linkedin.com/company/leena-ai,2018.0,15.8M,15800000.0,Tier 1,True
+CB Insights,cbinsights.com,https://www.cbinsights.com,https://www.linkedin.com/company/cb-insights,2009.0,68.6M,68600000.0,Tier 1,True
+Wellfound,wellfound.com,https://www.wellfound.com,https://www.linkedin.com/company/wellfoundhq,2013.0,19.6M,19600000.0,Tier 1,True
+Movable Ink,movableink.com,https://www.movableink.com,https://www.linkedin.com/company/movable-ink,2010.0,100M,100000000.0,Tier 1,True
+"FourKites, Inc.",fourkites.com,https://www.fourkites.com,https://www.linkedin.com/company/fourkites-inc,2014.0,114.3M,114300000.0,Tier 1,True
+Inworld AI,inworld.ai,https://www.inworld.ai,https://www.linkedin.com/company/inworld-ai,2021.0,35.7M,35700000.0,Tier 1,True
+Aha!,aha.io,https://www.aha.io,https://www.linkedin.com/company/aha-labs-inc-,2013.0,45.8M,45800000.0,Tier 1,True
+Sirion,sirion.ai,https://www.sirion.ai,https://www.linkedin.com/company/sirionclm,2012.0,26M,26000000.0,Tier 1,True
+Productboard,productboard.com,https://www.productboard.com,https://www.linkedin.com/company/productboard,2014.0,38.6M,38600000.0,Tier 1,True
+Papaya Global,papayaglobal.com,https://www.papayaglobal.com,https://www.linkedin.com/company/papaya-global,2017.0,100M,100000000.0,Tier 1,True
+G2,g2.com,https://www.g2.com,https://www.linkedin.com/company/g2dotcom,2012.0,165.5M,165500000.0,Tier 1,True
+Medable,medable.com,https://www.medable.com,https://www.linkedin.com/company/medable-inc-,2016.0,11.6M,11600000.0,Tier 1,True
+JumpCloud,jumpcloud.com,https://www.jumpcloud.com,https://www.linkedin.com/company/jumpcloud,2012.0,200M,200000000.0,Tier 1,True
+Snapsheet Inc,snapsheetclaims.com,https://www.snapsheetclaims.com,https://www.linkedin.com/company/snapsheetinc,2011.0,48.2M,48200000.0,Tier 1,True
+Hevo Data,hevodata.com,https://www.hevodata.com,https://www.linkedin.com/company/hevodata,2017.0,46.9M,46900000.0,Tier 1,True
+Auth0,auth0-bob.vercel.app,https://www.auth0-bob.vercel.app,https://www.linkedin.com/company/auth0,2013.0,200M,200000000.0,Tier 1,True
+MoEngage,moengage.com,https://www.moengage.com,https://www.linkedin.com/company/moengage,2014.0,106.8M,106800000.0,Tier 1,True
+Luxury Presence,luxurypresence.com,https://www.luxurypresence.com,https://www.linkedin.com/company/luxurypresence,2016.0,85M,85000000.0,Tier 1,True
+dbt Labs,getdbt.com,https://www.getdbt.com,https://www.linkedin.com/company/dbtlabs,2016.0,100M,100000000.0,Tier 1,True
+SQUIRE,getsquire.com,https://www.getsquire.com,https://www.linkedin.com/company/squ%c4%abr-technologies,2015.0,102.5M,102500000.0,Tier 1,True
+Astronomer,astronomer.io,https://www.astronomer.io,https://www.linkedin.com/company/astronomer,2018.0,39.5M,39500000.0,Tier 1,True
+HeadSpin,headspin.io,https://www.headspin.io,https://www.linkedin.com/company/headspin,2015.0,20M,20000000.0,Tier 1,True
+Huntress,huntress.com,https://www.huntress.com,https://www.linkedin.com/company/huntress-labs,2015.0,100M,100000000.0,Tier 1,True
+Betterworks,betterworks.com,https://www.betterworks.com,https://www.linkedin.com/company/betterworks,2013.0,41.7M,41700000.0,Tier 1,True
+Checkmarx,checkmarx.com,https://www.checkmarx.com,https://www.linkedin.com/company/checkmarx,2006.0,150M,150000000.0,Tier 1,True
+Pipedrive,pipedrive.com,https://www.pipedrive.com,https://www.linkedin.com/company/pipedrive,2010.0,222M,222000000.0,Tier 1,True
+Bubble,bubble.io,https://www.bubble.io,https://www.linkedin.com/company/bubble,2012.0,74.2M,74200000.0,Tier 1,True
+Celigo,celigo.com,https://www.celigo.com,https://www.linkedin.com/company/celigo-inc,2011.0,92M,92000000.0,Tier 1,True
+CleverTap,clevertap.com,https://www.clevertap.com,https://www.linkedin.com/company/clevertap,2013.0,120M,120000000.0,Tier 1,True
+Pipefy,pipefy.com,https://www.pipefy.com,https://www.linkedin.com/company/pipefy,2015.0,65.9M,65900000.0,Tier 1,True
+Spendflo,spendflo.com,https://www.spendflo.com,https://www.linkedin.com/company/spendflo,2020.0,15.2M,15200000.0,Tier 1,True
+MagicSchool AI,magicschool.ai,https://www.magicschool.ai,https://www.linkedin.com/company/magicschool-ai,2023.0,44.9M,44900000.0,Tier 1,True
+Loom,loom.com,https://www.loom.com,https://www.linkedin.com/company/useloom,2016.0,50M,50000000.0,Tier 1,True
+Vanta,vanta.com,https://www.vanta.com,https://www.linkedin.com/company/vanta-security,2018.0,220M,220000000.0,Tier 1,True
+Instabase,instabase.com,https://www.instabase.com,https://www.linkedin.com/company/instabase,2015.0,50M,50000000.0,Tier 1,True
+Briq,briq.com,https://www.briq.com,https://www.linkedin.com/company/briqhq,2018.0,25M,25000000.0,Tier 1,True
+Harvey,harvey.ai,https://www.harvey.ai,https://www.linkedin.com/company/harvey-ai,2022.0,190M,190000000.0,Tier 1,True
+Clarity AI,clarity.ai,https://www.clarity.ai,https://www.linkedin.com/company/clarity-ai,2017.0,60.1M,60100000.0,Tier 1,True
+Creatio,creatio.com,https://www.creatio.com,https://www.linkedin.com/company/creatioglobal,2014.0,175.5M,175500000.0,Tier 1,True
+Salesloft,salesloft.com,https://www.salesloft.com,https://www.linkedin.com/company/salesloft,2011.0,110M,110000000.0,Tier 1,True
+DoiT,doit.com,https://www.doit.com,https://www.linkedin.com/company/doitintl,2011.0,86.8M,86800000.0,Tier 1,True
+Neo4j,neo4j.com,https://www.neo4j.com,https://www.linkedin.com/company/neo4j,2007.0,200M,200000000.0,Tier 1,True
+Fireblocks,fireblocks.com,https://www.fireblocks.com,https://www.linkedin.com/company/fireblocks,2018.0,156.3M,156300000.0,Tier 1,True
+ZeroFox,zerofox.com,https://www.zerofox.com,https://www.linkedin.com/company/zerofox,2013.0,50M,50000000.0,Tier 1,True
+LotusFlare,lotusflare.com,https://www.lotusflare.com,https://www.linkedin.com/company/lotusflare,2014.0,66.1M,66100000.0,Tier 1,True
+project44,project44.com,https://www.project44.com,https://www.linkedin.com/company/project-44,2014.0,210.1M,210100000.0,Tier 1,True
+Demandbase,demandbase.com,https://www.demandbase.com,https://www.linkedin.com/company/demandbase,2005.0,30.5M,30500000.0,Tier 1,True
+LandingAI,landing.ai,https://www.landing.ai,https://www.linkedin.com/company/landing-ai,2017.0,15.2M,15200000.0,Tier 1,True
+BigID,bigid.com,https://www.bigid.com,https://www.linkedin.com/company/bigid,2016.0,139.5M,139500000.0,Tier 1,True
+Acoustic,acoustic.com,https://www.acoustic.com,https://www.linkedin.com/company/goacoustic,2019.0,126M,126000000.0,Tier 1,True
+Clari,clari.com,https://www.clari.com,https://www.linkedin.com/company/clari,2012.0,158.5M,158500000.0,Tier 1,True
+Skai,skai.io,https://www.skai.io,https://www.linkedin.com/company/skaicommerce,2006.0,78.9M,78900000.0,Tier 1,True
+Securiti AI,securiti.ai,https://www.securiti.ai,https://www.linkedin.com/company/securitiai,2019.0,75.9M,75900000.0,Tier 1,True
+One Identity,oneidentity.com,https://www.oneidentity.com,https://www.linkedin.com/company/one-identity,2016.0,62.8M,62800000.0,Tier 1,True
+Luciq,luciq.ai,https://www.luciq.ai,https://www.linkedin.com/company/luciq,2014.0,36.5M,36500000.0,Tier 1,True
+Fieldwire by Hilti,fieldwire.com,https://www.fieldwire.com,https://www.linkedin.com/company/fieldwirebyhilti,2013.0,22M,22000000.0,Tier 1,True
+Posit PBC,posit.co,https://www.posit.co,https://www.linkedin.com/company/posit-software,2009.0,18M,18000000.0,Tier 1,True
+Airbase,airbase.com,https://www.airbase.com,https://www.linkedin.com/company/airbaseinc,2017.0,96.6M,96600000.0,Tier 1,True
+Mural,mural.co,https://www.mural.co,https://www.linkedin.com/company/mural.co,2011.0,189M,189000000.0,Tier 1,True
+Responsive,responsive.io,https://www.responsive.io,https://www.linkedin.com/company/responsiveio,2016.0,67.1M,67100000.0,Tier 1,True
+Heap | by Contentsquare,heap.io,https://www.heap.io,https://www.linkedin.com/company/heap-inc-,2013.0,69.2M,69200000.0,Tier 1,True
+Beroe Inc,beroeinc.com,https://www.beroeinc.com,https://www.linkedin.com/company/beroe-inc,2006.0,135.5M,135500000.0,Tier 1,True
+Innovapptive Inc,innovapptive.com,https://www.innovapptive.com,https://www.linkedin.com/company/innovapptive-inc,2012.0,66.3M,66300000.0,Tier 1,True
+Degreed,degreed.com,https://www.degreed.com,https://www.linkedin.com/company/degreed,2012.0,180M,180000000.0,Tier 1,True
+Artisan,artisan.co,https://www.artisan.co,https://www.linkedin.com/company/artisanai,2023.0,18M,18000000.0,Tier 1,True
+Netwrix Corporation,netwrix.com,https://www.netwrix.com,https://www.linkedin.com/company/netwrix-corporation,2006.0,245.6M,245600000.0,Tier 1,True
+Mythical Games,mythicalgames.com,https://www.mythicalgames.com,https://www.linkedin.com/company/mythical,2018.0,59.5M,59500000.0,Tier 1,True
+WorkGenius Group,workgenius.com,https://www.workgenius.com,https://www.linkedin.com/company/workgenius-group,2019.0,70M,70000000.0,Tier 1,True
+SAP LeanIX,leanix.net,https://www.leanix.net,https://www.linkedin.com/company/sapleanix,2012.0,153.4M,153400000.0,Tier 1,True
+Platform9,platform9.com,https://www.platform9.com,https://www.linkedin.com/company/platform9systems,2013.0,20.5M,20500000.0,Tier 1,True
+Augury,augury.com,https://www.augury.com,https://www.linkedin.com/company/augury-systems,2011.0,155M,155000000.0,Tier 1,True
+Ushur,ushur.ai,https://www.ushur.ai,https://www.linkedin.com/company/ushur-me,2014.0,120.4M,120400000.0,Tier 1,True
+Reltio,reltio.com,https://www.reltio.com,https://www.linkedin.com/company/reltio-inc,2011.0,150M,150000000.0,Tier 1,True
+Duetto,duettocloud.com,https://www.duettocloud.com,https://www.linkedin.com/company/duetto-research,2012.0,92M,92000000.0,Tier 1,True
+Cognite,cognite.com,https://www.cognite.com,https://www.linkedin.com/company/cognitedata,2016.0,170M,170000000.0,Tier 1,True
+Reforge,reforge.com,https://www.reforge.com,https://www.linkedin.com/company/reforge,2016.0,135.1M,135100000.0,Tier 1,True
+Algolia,algolia.com,https://www.algolia.com,https://www.linkedin.com/company/algolia,2012.0,75M,75000000.0,Tier 1,True
+Linear,linear.app,https://www.linear.app,https://www.linkedin.com/company/linearapp,2019.0,20M,20000000.0,Tier 1,True
+Sense,sensehq.com,https://www.sensehq.com,https://www.linkedin.com/company/sensehq,2016.0,75M,75000000.0,Tier 1,True
+Torre.ai,torre.ai,https://www.torre.ai,https://www.linkedin.com/company/torre-ai,2017.0,62.7M,62700000.0,Tier 1,True
+Aircall,aircall.io,https://www.aircall.io,https://www.linkedin.com/company/aircall,2014.0,175M,175000000.0,Tier 1,True
+DroneDeploy,dronedeploy.com,https://www.dronedeploy.com,https://www.linkedin.com/company/dronedeploy,2013.0,121.2M,121200000.0,Tier 1,True
+Sitetracker,sitetracker.com,https://www.sitetracker.com,https://www.linkedin.com/company/sitetracker,2013.0,75M,75000000.0,Tier 1,True
+Axonius,axonius.com,https://www.axonius.com,https://www.linkedin.com/company/axonius,2017.0,151.5M,151500000.0,Tier 1,True
+Unite Us,uniteus.com,https://www.uniteus.com,https://www.linkedin.com/company/uniteus,2013.0,107.9M,107900000.0,Tier 1,True
+Copado,copado.com,https://www.copado.com,https://www.linkedin.com/company/copadosolutions,2013.0,140M,140000000.0,Tier 1,True
+Reputation,reputation.com,https://www.reputation.com,https://www.linkedin.com/company/reputation-com,2006.0,93M,93000000.0,Tier 1,True
+Kong,konghq.com,https://www.konghq.com,https://www.linkedin.com/company/konghq,2017.0,146.1M,146100000.0,Tier 1,True
+Greenhouse Software,greenhouse.com,https://www.greenhouse.com,https://www.linkedin.com/company/greenhouse-inc-,2012.0,110M,110000000.0,Tier 1,True
+Fleetio,fleetio.com,https://www.fleetio.com,https://www.linkedin.com/company/fleetio,2012.0,58M,58000000.0,Tier 1,True
+Midi Health,joinmidi.com,https://www.joinmidi.com,https://www.linkedin.com/company/midi-health,2021.0,150M,150000000.0,Tier 1,True
+Uniphore,uniphore.com,https://www.uniphore.com,https://www.linkedin.com/company/uniphore,2008.0,500M,500000000.0,Tier 1,True
+Bloomreach,bloomreach.com,https://www.bloomreach.com,https://www.linkedin.com/company/bloomreach,2009.0,200M,200000000.0,Tier 1,True
+Quantcast,quantcast.com,https://www.quantcast.com,https://www.linkedin.com/company/quantcast,2006.0,52.9M,52900000.0,Tier 1,True
+AuditBoard,auditboard.com,https://www.auditboard.com,https://www.linkedin.com/company/auditboard,2014.0,300M,300000000.0,Tier 1,True
+DataVisor,datavisor.com,https://www.datavisor.com,https://www.linkedin.com/company/datavisor,2013.0,37.9M,37900000.0,Tier 1,True
+BetterCloud,bettercloud.com,https://www.bettercloud.com,https://www.linkedin.com/company/bettercloud,2011.0,67M,67000000.0,Tier 1,True
+Abridge,abridge.com,https://www.abridge.com,https://www.linkedin.com/company/abridgehq,2018.0,100M,100000000.0,Tier 1,True
+Sysdig,sysdig.com,https://www.sysdig.com,https://www.linkedin.com/company/sysdig,2013.0,283M,283000000.0,Tier 1,True
+HeyGen,heygen.com,https://www.heygen.com,https://www.linkedin.com/company/heygen,2020.0,35M,35000000.0,Tier 1,True
+Dutchie,dutchie.com,https://www.dutchie.com,https://www.linkedin.com/company/getdutchie,2017.0,45M,45000000.0,Tier 1,True
+Ironclad,ironcladapp.com,https://www.ironcladapp.com,https://www.linkedin.com/company/ironclad-inc-,2014.0,150M,150000000.0,Tier 1,True
+DaVinci Commerce,jivox.com,https://www.jivox.com,https://www.linkedin.com/company/davincicommerce,2007.0,42M,42000000.0,Tier 1,True
+Juniper Square,junipersquare.com,https://www.junipersquare.com,https://www.linkedin.com/company/juniper-square,2014.0,139.8M,139800000.0,Tier 1,True
+Seesaw Learning,seesaw.com,https://www.seesaw.com,https://www.linkedin.com/company/seesaw-learning,2015.0,75M,75000000.0,Tier 1,True
+Benevity,benevity.com,https://www.benevity.com,https://www.linkedin.com/company/benevity,2008.0,133M,133000000.0,Tier 1,True
+User Interviews,userinterviews.com,https://www.userinterviews.com,https://www.linkedin.com/company/user-interviews,2016.0,26.5M,26500000.0,Tier 1,True
+Sauce Labs,saucelabs.com,https://www.saucelabs.com,https://www.linkedin.com/company/sauce-labs,2008.0,92.1M,92100000.0,Tier 1,True
+SecurityScorecard,securityscorecard.com,https://www.securityscorecard.com,https://www.linkedin.com/company/security-scorecard,2013.0,144.3M,144300000.0,Tier 1,True
+ChurnZero,churnzero.com,https://www.churnzero.com,https://www.linkedin.com/company/churnzero,2015.0,180.8M,180800000.0,Tier 1,True
+Lusha,lusha.com,https://www.lusha.com,https://www.linkedin.com/company/lushadata,2016.0,64.4M,64400000.0,Tier 1,True
+Lookout,lookout.com,https://www.lookout.com,https://www.linkedin.com/company/lookout,2007.0,72.5M,72500000.0,Tier 1,True
+Salsify,salsify.com,https://www.salsify.com,https://www.linkedin.com/company/salsify,2012.0,200M,200000000.0,Tier 1,True
+Incorta,incorta.com,https://www.incorta.com,https://www.linkedin.com/company/incorta,2013.0,29.4M,29400000.0,Tier 1,True
+Testlio,testlio.com,https://www.testlio.com,https://www.linkedin.com/company/testlio,2012.0,75.6M,75600000.0,Tier 1,True
+Aper,aper.com,https://www.aper.com,https://www.linkedin.com/company/aperlatam,2016.0,25.4M,25400000.0,Tier 1,True
+Pinecone,pinecone.io,https://www.pinecone.io,https://www.linkedin.com/company/pinecone-io,2019.0,26.6M,26600000.0,Tier 1,True
+Sureify,sureify.com,https://www.sureify.com,https://www.linkedin.com/company/sureify-com,2012.0,38.9M,38900000.0,Tier 1,True
+Mixpanel,mixpanel.com,https://www.mixpanel.com,https://www.linkedin.com/company/mixpanel-inc-,2009.0,210M,210000000.0,Tier 1,True
+OpenX,openx.com,https://www.openx.com,https://www.linkedin.com/company/openx,2007.0,200M,200000000.0,Tier 1,True
+Beyond,beyondpricing.com,https://www.beyondpricing.com,https://www.linkedin.com/company/beyond-pricing,2013.0,63M,63000000.0,Tier 1,True
+FarEye,fareye.com,https://www.fareye.com,https://www.linkedin.com/company/fareye,2013.0,23M,23000000.0,Tier 1,True
+Branch,branch.io,https://www.branch.io,https://www.linkedin.com/company/branch-metrics,2014.0,72M,72000000.0,Tier 1,True
+"Zenwork, Inc",zenwork.com,https://www.zenwork.com,https://www.linkedin.com/company/zenworkinc,2011.0,19.1M,19100000.0,Tier 1,True
+Eltropy,eltropy.com,https://www.eltropy.com,https://www.linkedin.com/company/eltropy,2013.0,12.5M,12500000.0,Tier 1,True
+Twilio Segment,segment.com,https://www.segment.com,https://www.linkedin.com/company/segment-io,2012.0,297.7M,297700000.0,Tier 1,True
+Persado,persado.com,https://www.persado.com,https://www.linkedin.com/company/persado,2012.0,55M,55000000.0,Tier 1,True
+Spyne,spyne.ai,https://www.spyne.ai,https://www.linkedin.com/company/spyne-ai,2018.0,18.4M,18400000.0,Tier 1,True
+Maxio,maxio.com,https://www.maxio.com,https://www.linkedin.com/company/wearemaxio,2009.0,49.4M,49400000.0,Tier 1,True
+Modern Campus,moderncampus.com,https://www.moderncampus.com,https://www.linkedin.com/company/moderncampus,2018.0,35M,35000000.0,Tier 1,True
+Integrate,integrate.com,https://www.integrate.com,https://www.linkedin.com/company/integrate-,2010.0,72.2M,72200000.0,Tier 1,True
+Unbounce,unbounce.com,https://www.unbounce.com,https://www.linkedin.com/company/unbounce,2009.0,35.4M,35400000.0,Tier 1,True
+Deliverect,deliverect.com,https://www.deliverect.com,https://www.linkedin.com/company/deliverecthq,2018.0,44.7M,44700000.0,Tier 1,True
+Acceldata,acceldata.io,https://www.acceldata.io,https://www.linkedin.com/company/acceldata,2018.0,35M,35000000.0,Tier 1,True
+Xoxoday,xoxoday.com,https://www.xoxoday.com,https://www.linkedin.com/company/xoxoday,2012.0,26M,26000000.0,Tier 1,True
+Triple Whale,triplewhale.com,https://www.triplewhale.com,https://www.linkedin.com/company/triple-whale,2021.0,21.6M,21600000.0,Tier 1,True
+Intelligence Node,intelligencenode.com,https://www.intelligencenode.com,https://www.linkedin.com/company/intelligencenode,2012.0,17M,17000000.0,Tier 1,True
+Typeface,typeface.ai,https://www.typeface.ai,https://www.linkedin.com/company/typefaceai,2022.0,34.3M,34300000.0,Tier 1,True
+GoGuardian,goguardian.com,https://www.goguardian.com,https://www.linkedin.com/company/goguardian,2014.0,147M,147000000.0,Tier 1,True
+LocoNav,loconav.com,https://www.loconav.com,https://www.linkedin.com/company/loconav.com,2016.0,48.7M,48700000.0,Tier 1,True
+AccuKnox,accuknox.com,https://www.accuknox.com,https://www.linkedin.com/company/accuknox,2020.0,16.5M,16500000.0,Tier 1,True
+Lacework,lacework.com,https://www.lacework.com,https://www.linkedin.com/company/lacework,2015.0,350M,350000000.0,Tier 1,True
+Personetics,personetics.com,https://www.personetics.com,https://www.linkedin.com/company/personetics,2011.0,45M,45000000.0,Tier 1,True
+Jasper,jasper.ai,https://www.jasper.ai,https://www.linkedin.com/company/heyjasperai,2020.0,88M,88000000.0,Tier 1,True
+TetraScience,tetrascience.com,https://www.tetrascience.com,https://www.linkedin.com/company/tetrascience,2019.0,24M,24000000.0,Tier 1,True
+Muck Rack,muckrack.com,https://www.muckrack.com,https://www.linkedin.com/company/muckrack,2009.0,143.1M,143100000.0,Tier 1,True
+Sensor Tower,sensortower.com,https://www.sensortower.com,https://www.linkedin.com/company/sensor-tower,2013.0,17M,17000000.0,Tier 1,True
+Devo,devo.com,https://www.devo.com,https://www.linkedin.com/company/devoinc,2011.0,70.6M,70600000.0,Tier 1,True
+CareStack™ - Dental Practice Management,carestack.com,https://www.carestack.com,https://www.linkedin.com/company/carestack,2015.0,126M,126000000.0,Tier 1,True
+Olo,olo.com,https://www.olo.com,https://www.linkedin.com/company/olo,2005.0,314.3M,314327000.0,Tier 1,True
+CloudBees,cloudbees.com,https://www.cloudbees.com,https://www.linkedin.com/company/cloudbees,2010.0,150M,150000000.0,Tier 1,True
+Second Front,secondfront.com,https://www.secondfront.com,https://www.linkedin.com/company/secondfront,2014.0,28M,28000000.0,Tier 1,True
+brightwheel,mybrightwheel.com,https://www.mybrightwheel.com,https://www.linkedin.com/company/brightwheel,2014.0,37.5M,37500000.0,Tier 1,True
+Acorns,acorns.com,https://www.acorns.com,https://www.linkedin.com/company/acorns-grow-inc-,2012.0,262.9M,262900000.0,Tier 1,True
+Cordial,cordial.com,https://www.cordial.com,https://www.linkedin.com/company/becordial,2014.0,17.2M,17200000.0,Tier 1,True
+LambdaTest is now TestMu AI,lambdatest.com,https://www.lambdatest.com,https://www.linkedin.com/company/lambdatest,2018.0,21M,21000000.0,Tier 1,True
+inFeedo AI,infeedo.ai,https://www.infeedo.ai,https://www.linkedin.com/company/infeedo,2016.0,16.1M,16100000.0,Tier 1,True
+Aryaka,aryaka.com,https://www.aryaka.com,https://www.linkedin.com/company/aryaka-networks,2009.0,125M,125000000.0,Tier 1,True
+SingleStore,singlestore.com,https://www.singlestore.com,https://www.linkedin.com/company/singlestore,2011.0,123M,123000000.0,Tier 1,True
+Sendoso,sendoso.com,https://www.sendoso.com,https://www.linkedin.com/company/sendoso,2016.0,84.8M,84800000.0,Tier 1,True
+Wattpad,wattpad.com,https://www.wattpad.com,https://www.linkedin.com/company/wattpad,2006.0,50.3M,50300000.0,Tier 1,True
+Filevine,filevine.com,https://www.filevine.com,https://www.linkedin.com/company/filevine,2015.0,105M,105000000.0,Tier 1,True
+BlueJeans by Verizon,bluejeans.com,https://www.bluejeans.com,https://www.linkedin.com/company/bluejeans-by-verizon,2009.0,100M,100000000.0,Tier 1,True
+AlayaCare,alayacare.com,https://www.alayacare.com,https://www.linkedin.com/company/alayacare-inc,2014.0,100.3M,100300000.0,Tier 1,True
+Scienaptic AI,scienaptic.ai,https://www.scienaptic.ai,https://www.linkedin.com/company/scienaptic-ai,2014.0,16.7M,16700000.0,Tier 1,True
+Iterable,iterable.com,https://www.iterable.com,https://www.linkedin.com/company/iterable,2013.0,167.2M,167200000.0,Tier 1,True
+lemlist,lemlist.com,https://www.lemlist.com,https://www.linkedin.com/company/lemlist,2018.0,28M,28000000.0,Tier 1,True
+Locus,locus.sh,https://www.locus.sh,https://www.linkedin.com/company/locus-sh,2015.0,35.3M,35300000.0,Tier 1,True
+PermitFlow,permitflow.com,https://www.permitflow.com,https://www.linkedin.com/company/permitflow,2021.0,26.7M,26700000.0,Tier 1,True
+Bidgely,bidgely.com,https://www.bidgely.com,https://www.linkedin.com/company/bidgely,2011.0,31.2M,31200000.0,Tier 1,True
+Nuvolo,nuvolo.com,https://www.nuvolo.com,https://www.linkedin.com/company/nuvolo,2013.0,31.5M,31500000.0,Tier 1,True
+Increff,increff.com,https://www.increff.com,https://www.linkedin.com/company/increff,2016.0,12.9M,12900000.0,Tier 1,True
+LaunchDarkly,launchdarkly.com,https://www.launchdarkly.com,https://www.linkedin.com/company/launchdarkly,2014.0,200M,200000000.0,Tier 1,True
+"InvoiceCloud, Inc.",invoicecloud.net,https://www.invoicecloud.net,https://www.linkedin.com/company/invoice-cloud-inc,2009.0,35M,35000000.0,Tier 1,True
+Helpshift,helpshift.com,https://www.helpshift.com,https://www.linkedin.com/company/helpshift,2011.0,21.2M,21200000.0,Tier 1,True
+Tango,tangoanalytics.com,https://www.tangoanalytics.com,https://www.linkedin.com/company/tango-analytics,2008.0,33.4M,33400000.0,Tier 1,True
+Benchling,benchling.com,https://www.benchling.com,https://www.linkedin.com/company/benchling,2012.0,210M,210000000.0,Tier 1,True
+Suzy,suzy.com,https://www.suzy.com,https://www.linkedin.com/company/asksuzy,2017.0,50M,50000000.0,Tier 1,True
+WeTravel,wetravel.com,https://www.wetravel.com,https://www.linkedin.com/company/wetravel,2016.0,74.8M,74800000.0,Tier 1,True
+Totango,totango.com,https://www.totango.com,https://www.linkedin.com/company/totango,2010.0,25.4M,25400000.0,Tier 1,True
+Rocketlane,rocketlane.com,https://www.rocketlane.com,https://www.linkedin.com/company/rocketlane,2020.0,12.5M,12500000.0,Tier 1,True
+Climate,climate.com,https://www.climate.com,https://www.linkedin.com/company/climate-llc,2006.0,206.2M,206200000.0,Tier 1,True
+DevRev,devrev.ai,https://www.devrev.ai,https://www.linkedin.com/company/devrev,2020.0,169M,169000000.0,Tier 1,True
+GoCanvas,gocanvas.com,https://www.gocanvas.com,https://www.linkedin.com/company/gocanvas,2008.0,35.1M,35100000.0,Tier 1,True
+Workleap,workleap.com,https://www.workleap.com,https://www.linkedin.com/company/workleaphq,2006.0,108.8M,108800000.0,Tier 1,True
+PulsePoint,pulsepoint.com,https://www.pulsepoint.com,https://www.linkedin.com/company/pulsepoint,2011.0,29.5M,29500000.0,Tier 1,True
+Persona,withpersona.com,https://www.withpersona.com,https://www.linkedin.com/company/persona-identities,2018.0,141.2M,141200000.0,Tier 1,True
+RudderStack,rudderstack.com,https://www.rudderstack.com,https://www.linkedin.com/company/rudderstack,2019.0,16.3M,16300000.0,Tier 1,True
+Teikametrics,teikametrics.com,https://www.teikametrics.com,https://www.linkedin.com/company/teikametrics,2015.0,45.1M,45100000.0,Tier 1,True
+Superhuman Mail,superhuman.com,https://www.superhuman.com,https://www.linkedin.com/company/superhuman-co,2015.0,35M,35000000.0,Tier 1,True
+Dashlane,dashlane.com,https://www.dashlane.com,https://www.linkedin.com/company/dashlane,2009.0,113.4M,113400000.0,Tier 1,True
+ada CX,ada.cx,https://www.ada.cx,https://www.linkedin.com/company/ada-cx,2016.0,70.6M,70600000.0,Tier 1,True
+Ellevation Education,ellevationeducation.com,https://www.ellevationeducation.com,https://www.linkedin.com/company/ellevation-education,2011.0,37M,37000000.0,Tier 1,True
+Botify,botify.com,https://www.botify.com,https://www.linkedin.com/company/botify,2012.0,18.1M,18100000.0,Tier 1,True
+ELB Learning,elblearning.com,https://www.elblearning.com,https://www.linkedin.com/company/elblearning,2009.0,43.7M,43700000.0,Tier 1,True
+Highspot,highspot.com,https://www.highspot.com,https://www.linkedin.com/company/highspot,2012.0,450M,450000000.0,Tier 1,True
+myKaarma,mykaarma.com,https://www.mykaarma.com,https://www.linkedin.com/company/mykaarma,2012.0,28.4M,28400000.0,Tier 1,True
+AiDASH,aidash.com,https://www.aidash.com,https://www.linkedin.com/company/aidash,2019.0,94.6M,94600000.0,Tier 1,True
+Kustomer,kustomer.com,https://www.kustomer.com,https://www.linkedin.com/company/kustomer,2015.0,23.2M,23200000.0,Tier 1,True
+Decisions,decisions.com,https://www.decisions.com,https://www.linkedin.com/company/decisions,2010.0,33M,33000000.0,Tier 1,True
+LastPass,lastpass.com,https://www.lastpass.com,https://www.linkedin.com/company/lastpass,2008.0,90.5M,90500000.0,Tier 1,True
+Maze,maze.co,https://www.maze.co,https://www.linkedin.com/company/mazedesign,2018.0,20.4M,20400000.0,Tier 1,True
+Attentive.ai,attentive.ai,https://www.attentive.ai,https://www.linkedin.com/company/attentive.ai,2017.0,57.9M,57900000.0,Tier 1,True
+TraceLink,tracelink.com,https://www.tracelink.com,https://www.linkedin.com/company/tracelink,2009.0,213.5M,213500000.0,Tier 1,True
+GRIN,grin.co,https://www.grin.co,https://www.linkedin.com/company/grin-inc-,2014.0,17.3M,17300000.0,Tier 1,True
+CARTO,carto.com,https://www.carto.com,https://www.linkedin.com/company/carto,2012.0,28.9M,28900000.0,Tier 1,True
+Google Cloud Security,siemplify.co,https://www.siemplify.co,https://www.linkedin.com/company/googlecloudsecurity,2018.0,50M,50000000.0,Tier 1,True
+ReversingLabs,reversinglabs.com,https://www.reversinglabs.com,https://www.linkedin.com/company/reversinglabs,2009.0,82.9M,82900000.0,Tier 1,True
+Popmenu,popmenu.com,https://www.popmenu.com,https://www.linkedin.com/company/popmenu,2016.0,59.2M,59200000.0,Tier 1,True
+Driivz,driivz.com,https://www.driivz.com,https://www.linkedin.com/company/driivz,2013.0,25M,25000000.0,Tier 1,True
+BigPanda,bigpanda.io,https://www.bigpanda.io,https://www.linkedin.com/company/bigpanda,2012.0,55M,55000000.0,Tier 1,True
+Vendr,vendr.com,https://www.vendr.com,https://www.linkedin.com/company/vendr-co,2019.0,94.8M,94800000.0,Tier 1,True
+Island,island.io,https://www.island.io,https://www.linkedin.com/company/island-io,2020.0,87M,87000000.0,Tier 1,True
+Jungle Scout,junglescout.com,https://www.junglescout.com,https://www.linkedin.com/company/junglescout,2015.0,19.8M,19800000.0,Tier 1,True
+Bitly,bitly.com,https://www.bitly.com,https://www.linkedin.com/company/bitly,2008.0,100M,100000000.0,Tier 1,True
+Aviso AI,aviso.com,https://www.aviso.com,https://www.linkedin.com/company/aviso-inc,2014.0,37M,37000000.0,Tier 1,True
+FloQast,floqast.com,https://www.floqast.com,https://www.linkedin.com/company/floqast,2013.0,200M,200000000.0,Tier 1,True
+Shoplazza,shoplazza.com,https://www.shoplazza.com,https://www.linkedin.com/company/shoplazza,2017.0,33.8M,33800000.0,Tier 1,True
+BillingPlatform,billingplatform.com,https://www.billingplatform.com,https://www.linkedin.com/company/billingplatform,2012.0,25.3M,25300000.0,Tier 1,True
+Aurora Solar,aurorasolar.com,https://www.aurorasolar.com,https://www.linkedin.com/company/aurora-solar,2013.0,35M,35000000.0,Tier 1,True
+CharterUP,charterup.com,https://www.charterup.com,https://www.linkedin.com/company/charterup,2018.0,24M,24000000.0,Tier 1,True
+Contentstack,contentstack.com,https://www.contentstack.com,https://www.linkedin.com/company/contentstack,2018.0,100.9M,100900000.0,Tier 1,True
+Draup,draup.com,https://www.draup.com,https://www.linkedin.com/company/draupplatform,2018.0,57.8M,57800000.0,Tier 1,True
+COFENSE,cofense.com,https://www.cofense.com,https://www.linkedin.com/company/cofense,2011.0,55.5M,55500000.0,Tier 1,True
+Greenly | Certified B Corp,greenly.earth,https://www.greenly.earth,https://www.linkedin.com/company/greenly-earth,2019.0,110.3M,110300000.0,Tier 1,True
+Goldcast,goldcast.io,https://www.goldcast.io,https://www.linkedin.com/company/goldcast,2020.0,10.8M,10800000.0,Tier 1,True
+Chainguard,chainguard.dev,https://www.chainguard.dev,https://www.linkedin.com/company/chainguard-dev,2021.0,40M,40000000.0,Tier 1,True
+Arcadia,arcadia.com,https://www.arcadia.com,https://www.linkedin.com/company/arcadiahq,2014.0,270M,270000000.0,Tier 1,True
+AppOmni,appomni.com,https://www.appomni.com,https://www.linkedin.com/company/appomni,2018.0,54.4M,54400000.0,Tier 1,True
+Recurly,recurly.com,https://www.recurly.com,https://www.linkedin.com/company/recurly,2009.0,71M,71000000.0,Tier 1,True
+CHAMP,champtitles.com,https://www.champtitles.com,https://www.linkedin.com/company/champtitles,2018.0,13.2M,13200000.0,Tier 1,True
+Farmers Edge,farmersedge.ca,https://www.farmersedge.ca,https://www.linkedin.com/company/farmers-edge,2005.0,15.5M,15547000.0,Tier 1,True
+Teleport,goteleport.com,https://www.goteleport.com,https://www.linkedin.com/company/go-teleport,2015.0,49M,49000000.0,Tier 1,True
+Scribe,scribe.com,https://www.scribe.com,https://www.linkedin.com/company/scribehow,2019.0,12.5M,12500000.0,Tier 1,True
+Solutions by Text,solutionsbytext.com,https://www.solutionsbytext.com,https://www.linkedin.com/company/solutionsbytext,2008.0,80M,80000000.0,Tier 1,True
+Humand,humand.co,https://www.humand.co,https://www.linkedin.com/company/humand-co,2019.0,49.8M,49800000.0,Tier 1,True
+Otter.ai,otter.ai,https://www.otter.ai,https://www.linkedin.com/company/otter-ai,2016.0,100M,100000000.0,Tier 1,True
+EV Connect,evconnect.com,https://www.evconnect.com,https://www.linkedin.com/company/ev-connect,2009.0,33.2M,33200000.0,Tier 1,True
+Vidyard,vidyard.com,https://www.vidyard.com,https://www.linkedin.com/company/vidyard,2011.0,47.7M,47700000.0,Tier 1,True
+Vectra AI,vectra.ai,https://www.vectra.ai,https://www.linkedin.com/company/vectra_ai,2011.0,150M,150000000.0,Tier 1,True
+Partnerize,partnerize.com,https://www.partnerize.com,https://www.linkedin.com/company/partnerize,2010.0,65.7M,65700000.0,Tier 1,True
+Lavender 💜🔮 www.ora.im,lavender.ai,https://www.lavender.ai,https://www.linkedin.com/company/itslavenderduh,2020.0,11.9M,11900000.0,Tier 1,True
+Socure,socure.com,https://www.socure.com,https://www.linkedin.com/company/socure,2012.0,125.4M,125400000.0,Tier 1,True
+Current Health,currenthealth.com,https://www.currenthealth.com,https://www.linkedin.com/company/currenthealth,2015.0,50M,50000000.0,Tier 1,True
+Mastercard Dynamic Yield,dynamicyield.com,https://www.dynamicyield.com,https://www.linkedin.com/company/dynamic-yield,2011.0,85M,85000000.0,Tier 1,True
+Bigtincan,bigtincan.com,https://www.bigtincan.com,https://www.linkedin.com/company/bigtincan,2011.0,78.1M,78075000.0,Tier 1,True
+Jane App,jane.app,https://www.jane.app,https://www.linkedin.com/company/janerunsclinics,2012.0,100M,100000000.0,Tier 1,True
+Slice,slice.com,https://www.slice.com,https://www.linkedin.com/company/slice,2010.0,100M,100000000.0,Tier 1,True
+Disprz,disprz.ai,https://www.disprz.ai,https://www.linkedin.com/company/disprz,2015.0,12M,12000000.0,Tier 1,True
+Yotpo,yotpo.com,https://www.yotpo.com,https://www.linkedin.com/company/yotpo,2011.0,213M,213000000.0,Tier 1,True
+Krisp,krisp.ai,https://www.krisp.ai,https://www.linkedin.com/company/krisphq,2017.0,37.7M,37700000.0,Tier 1,True
+Fullbay,fullbay.com,https://www.fullbay.com,https://www.linkedin.com/company/fullbay,2014.0,19.4M,19400000.0,Tier 1,True
+Coralogix,coralogix.com,https://www.coralogix.com,https://www.linkedin.com/company/coralogix,2014.0,100M,100000000.0,Tier 1,True
+EverTrue,evertrue.com,https://www.evertrue.com,https://www.linkedin.com/company/evertrue,2010.0,34.6M,34600000.0,Tier 1,True
+Q4,q4inc.com,https://www.q4inc.com,https://www.linkedin.com/company/q4-inc,2006.0,85M,85000000.0,Tier 1,True
+Neostella,neostella.com,https://www.neostella.com,https://www.linkedin.com/company/neostella,2019.0,42.4M,42400000.0,Tier 1,True
+Algo,algo.com,https://www.algo.com,https://www.linkedin.com/company/algoai,2016.0,51.5M,51500000.0,Tier 1,True
+SOCi.ai,soci.ai,https://www.soci.ai,https://www.linkedin.com/company/soci-ai,2012.0,100M,100000000.0,Tier 1,True
+Orum 🥇,orum.com,https://www.orum.com,https://www.linkedin.com/company/orumhq,2018.0,36M,36000000.0,Tier 1,True
+Skyflow,skyflow.com,https://www.skyflow.com,https://www.linkedin.com/company/skyflow,2019.0,19.8M,19800000.0,Tier 1,True
+BuildOps,buildops.com,https://www.buildops.com,https://www.linkedin.com/company/buildops,2018.0,97.4M,97400000.0,Tier 1,True
+CloudTalk,cloudtalk.io,https://www.cloudtalk.io,https://www.linkedin.com/company/cloudtalk.io,2016.0,11.8M,11800000.0,Tier 1,True
+GoodData,gooddata.com,https://www.gooddata.com,https://www.linkedin.com/company/gooddata,2007.0,63M,63000000.0,Tier 1,True
+TigerGraph,tigergraph.com,https://www.tigergraph.com,https://www.linkedin.com/company/tigergraph,2012.0,14.1M,14100000.0,Tier 1,True
+Visier Inc.,visier.com,https://www.visier.com,https://www.linkedin.com/company/visier-analytics,2010.0,147.3M,147300000.0,Tier 1,True
+Cynet Security,cynet.com,https://www.cynet.com,https://www.linkedin.com/company/cynet-security,2014.0,51.1M,51087000.0,Tier 1,True
+Mistral AI,mistral.ai,https://www.mistral.ai,https://www.linkedin.com/company/mistralai,2023.0,100M,100000000.0,Tier 1,True
+Mirakl,mirakl.com,https://www.mirakl.com,https://www.linkedin.com/company/mirakl,2012.0,177M,177000000.0,Tier 1,True
+Treatwell,treatwell.com,https://www.treatwell.com,https://www.linkedin.com/company/treatwell-com,2008.0,12M,12000000.0,Tier 1,True
+Lovable,lovable.dev,https://www.lovable.dev,https://www.linkedin.com/company/lovable-dev,2023.0,200M,200000000.0,Tier 1,True
+n8n,n8n.io,https://www.n8n.io,https://www.linkedin.com/company/n8n,2019.0,40M,40000000.0,Tier 1,True
+Swile,swile.co,https://www.swile.co,https://www.linkedin.com/company/swile,2018.0,213M,213000000.0,Tier 1,True
+hackajob,hackajob.com,https://www.hackajob.com,https://www.linkedin.com/company/hackajob,2014.0,44M,44000000.0,Tier 1,True
+Shipsy,shipsy.io,https://www.shipsy.io,https://www.linkedin.com/company/shipsy,2015.0,27.1M,27100000.0,Tier 1,True
+PayFit,payfit.com,https://www.payfit.com,https://www.linkedin.com/company/payfit,2015.0,155.7M,155700000.0,Tier 1,True
+Talentsoft,talentsoft.com,https://www.talentsoft.com,https://www.linkedin.com/company/talentsoft,2007.0,132M,132000000.0,Tier 1,True
+Fenergo,fenergo.com,https://www.fenergo.com,https://www.linkedin.com/company/fenergo,2009.0,162M,162000000.0,Tier 1,True
+Cognism,cognism.com,https://www.cognism.com,https://www.linkedin.com/company/cognism,2015.0,83M,83000000.0,Tier 1,True
+Framer,framer.com,https://www.framer.com,https://www.linkedin.com/company/framer,2014.0,50M,50000000.0,Tier 1,True
+Plentific,plentific.com,https://www.plentific.com,https://www.linkedin.com/company/plentific,2012.0,17M,17000000.0,Tier 1,True
+Spendesk,spendesk.com,https://www.spendesk.com,https://www.linkedin.com/company/spendesk,2016.0,52M,52000000.0,Tier 1,True
+Kpler,kpler.com,https://www.kpler.com,https://www.linkedin.com/company/kpler,2014.0,100M,100000000.0,Tier 1,True
+Quantexa,quantexa.com,https://www.quantexa.com,https://www.linkedin.com/company/quantexa,2016.0,163M,163000000.0,Tier 1,True
+WorkMotion,workmotion.com,https://www.workmotion.com,https://www.linkedin.com/company/workmotionglobal,2020.0,200M,200000000.0,Tier 1,True
+Leverage Edu,leverageedu.com,https://www.leverageedu.com,https://www.linkedin.com/company/leverage-edu,2017.0,21M,21000000.0,Tier 1,True
+Dext,dext.com,https://www.dext.com,https://www.linkedin.com/company/hellodext,2010.0,54.3M,54300000.0,Tier 1,True
+Pennylane,pennylane.com,https://www.pennylane.com,https://www.linkedin.com/company/pennylaneaccounting,2020.0,115M,115000000.0,Tier 1,True
+Pleo,pleo.io,https://www.pleo.io,https://www.linkedin.com/company/pleo-company,2015.0,108M,108000000.0,Tier 1,True
+BizAway,bizaway.com,https://www.bizaway.com,https://www.linkedin.com/company/bizaway,2015.0,20.2M,20200000.0,Tier 1,True
+Mambu,mambu.com,https://www.mambu.com,https://www.linkedin.com/company/mambu,2011.0,128.6M,128600000.0,Tier 1,True
+Shippeo,shippeo.com,https://www.shippeo.com,https://www.linkedin.com/company/shippeo,2014.0,22.3M,22300000.0,Tier 1,True
+Matillion,matillion.com,https://www.matillion.com,https://www.linkedin.com/company/matillion-limited,2011.0,93M,93000000.0,Tier 1,True
+GoCardless,gocardless.com,https://www.gocardless.com,https://www.linkedin.com/company/gocardless,2011.0,160M,160000000.0,Tier 1,True
+Nuitée,nuitee.com,https://www.nuitee.com,https://www.linkedin.com/company/nuitee,2016.0,29.5M,29500000.0,Tier 1,True
+Teamwork.com,teamwork.com,https://www.teamwork.com,https://www.linkedin.com/company/teamwork-com,2007.0,83.3M,83300000.0,Tier 1,True
+Brandwatch,brandwatch.com,https://www.brandwatch.com,https://www.linkedin.com/company/brandwatch,2007.0,61.1M,61084000.0,Tier 1,True
+xFarm Technologies,xfarm.ag,https://www.xfarm.ag,https://www.linkedin.com/company/xfarm-technologies,2017.0,39.4M,39400000.0,Tier 1,True
+Paddle,paddle.com,https://www.paddle.com,https://www.linkedin.com/company/paddle,2012.0,100M,100000000.0,Tier 1,True
+Red Points,redpoints.com,https://www.redpoints.com,https://www.linkedin.com/company/redpoints,2011.0,16M,16000000.0,Tier 1,True
+Contentful,contentful.com,https://www.contentful.com,https://www.linkedin.com/company/contentful,2013.0,219M,219000000.0,Tier 1,True
+Lunar,lunar.app,https://www.lunar.app,https://www.linkedin.com/company/lunarbank,2015.0,75M,75000000.0,Tier 1,True
+Brevo,brevo.com,https://www.brevo.com,https://www.linkedin.com/company/brevo,2012.0,233M,233000000.0,Tier 1,True
+Sana,sanalabs.com,https://www.sanalabs.com,https://www.linkedin.com/company/sana-labs,2016.0,22M,22000000.0,Tier 1,True
+GoodHabitz,goodhabitz.com,https://www.goodhabitz.com,https://www.linkedin.com/company/goodhabitz,2011.0,74.9M,74900000.0,Tier 1,True
+Stuart,stuart.com,https://www.stuart.com,https://www.linkedin.com/company/stuartdelivery,2015.0,154M,154000000.0,Tier 1,True
+Showpad,showpad.com,https://www.showpad.com,https://www.linkedin.com/company/showpad,2011.0,96.3M,96333000.0,Tier 1,True
+Coverflex,coverflex.com,https://www.coverflex.com,https://www.linkedin.com/company/getcoverflex,2019.0,38.5M,38500000.0,Tier 1,True
+Beamery,beamery.com,https://www.beamery.com,https://www.linkedin.com/company/beamery,2014.0,112.8M,112800000.0,Tier 1,True
+Funnel,funnel.io,https://www.funnel.io,https://www.linkedin.com/company/funnel-io,2014.0,50M,50000000.0,Tier 1,True
+Keepit,keepit.com,https://www.keepit.com,https://www.linkedin.com/company/keepit-a-s,2007.0,52M,52000000.0,Tier 1,True
+Payhawk,payhawk.com,https://www.payhawk.com,https://www.linkedin.com/company/payhawk,2018.0,24M,24000000.0,Tier 1,True
+10x Banking,10xbanking.com,https://www.10xbanking.com,https://www.linkedin.com/company/10x-banking,2016.0,82M,82000000.0,Tier 1,True
+commercetools,commercetools.com,https://www.commercetools.com,https://www.linkedin.com/company/commercetools,2010.0,21M,21000000.0,Tier 1,True
+TestGorilla,testgorilla.com,https://www.testgorilla.com,https://www.linkedin.com/company/testgorilla,2020.0,63.5M,63500000.0,Tier 1,True
+Lodgify,lodgify.com,https://www.lodgify.com,https://www.linkedin.com/company/lodgify,2012.0,75M,75000000.0,Tier 1,True
+Fresha,fresha.com,https://www.fresha.com,https://www.linkedin.com/company/heyfresha,2015.0,43.4M,43400000.0,Tier 1,True
+Lingokids,lingokids.com,https://www.lingokids.com,https://www.linkedin.com/company/lingokids,2015.0,31.9M,31900000.0,Tier 1,True
+Expensya,expensya.com,https://www.expensya.com,https://www.linkedin.com/company/expensya,2014.0,26.1M,26100000.0,Tier 1,True
+GWI,gwi.com,https://www.gwi.com,https://www.linkedin.com/company/gwidotcom,2009.0,48.1M,48084000.0,Tier 1,True
+Monta,monta.com,https://www.monta.com,https://www.linkedin.com/company/montaapp,2020.0,100M,100000000.0,Tier 1,True
+Jet HR,jethr.com,https://www.jethr.com,https://www.linkedin.com/company/jethr,2023.0,37M,37000000.0,Tier 1,True
+Orgvue,orgvue.com,https://www.orgvue.com,https://www.linkedin.com/company/orgvue,2007.0,52.5M,52500000.0,Tier 1,True
+SAP Signavio,signavio.com,https://www.signavio.com,https://www.linkedin.com/company/signavio,2009.0,30M,30000000.0,Tier 1,True
+Adjust,adjust.com,https://www.adjust.com,https://www.linkedin.com/company/adjustcom,2012.0,141.3M,141300000.0,Tier 1,True
+ifeel,ifeelonline.com,https://www.ifeelonline.com,https://www.linkedin.com/company/ifeelonline,2017.0,192M,192000000.0,Tier 1,True
+Teamtailor,teamtailor.com,https://www.teamtailor.com,https://www.linkedin.com/company/teamtailor,2013.0,47M,47000000.0,Tier 1,True
+Runna,runna.com,https://www.runna.com,https://www.linkedin.com/company/runna,2020.0,19.7M,19700000.0,Tier 1,True
+Bynder,bynder.com,https://www.bynder.com,https://www.linkedin.com/company/bynder,2013.0,130M,130000000.0,Tier 1,True
+Connectd,connectd.com,https://www.connectd.com,https://www.linkedin.com/company/connectd-co,2019.0,12M,12000000.0,Tier 1,True
+Reward Gateway,rewardgateway.com,https://www.rewardgateway.com,https://www.linkedin.com/company/reward-gateway,2006.0,235.0M,234990000.0,Tier 1,True
+AKUR8,akur8.com,https://www.akur8.com,https://www.linkedin.com/company/akur8,2019.0,62M,62000000.0,Tier 1,True
+Supermetrics,supermetrics.com,https://www.supermetrics.com,https://www.linkedin.com/company/supermetrics,2013.0,89.5M,89500000.0,Tier 1,True
+Matera,matera.eu,https://www.matera.eu,https://www.linkedin.com/company/materafr,2017.0,16M,16000000.0,Tier 1,True
+Smartly,smartly.io,https://www.smartly.io,https://www.linkedin.com/company/smartly-io,2013.0,150M,150000000.0,Tier 1,True
+Unmind,unmind.com,https://www.unmind.com,https://www.linkedin.com/company/unmindhq,2016.0,46.1M,46100000.0,Tier 1,True
+Doctify,doctify.com,https://www.doctify.com,https://www.linkedin.com/company/doctify,2015.0,15.8M,15800000.0,Tier 1,True
+ESG Book,esgbook.com,https://www.esgbook.com,https://www.linkedin.com/company/esgbook,2018.0,49.4M,49400000.0,Tier 1,True
+NavVis,navvis.com,https://www.navvis.com,https://www.linkedin.com/company/navvis,2013.0,51.5M,51500000.0,Tier 1,True
+Amenitiz,amenitiz.com,https://www.amenitiz.com,https://www.linkedin.com/company/amenitiz,2018.0,16M,16000000.0,Tier 1,True
+Akeneo,akeneo.com,https://www.akeneo.com,https://www.linkedin.com/company/akeneo,2013.0,53.2M,53200000.0,Tier 1,True
+Hostaway,hostaway.com,https://www.hostaway.com,https://www.linkedin.com/company/hostaway,2015.0,43.3M,43300000.0,Tier 1,True
+Meditopia,meditopia.com,https://www.meditopia.com,https://www.linkedin.com/company/meditopia,2015.0,54.6M,54600000.0,Tier 1,True
+PlanRadar,planradar.com,https://www.planradar.com,https://www.linkedin.com/company/planradar,2013.0,32.1M,32100000.0,Tier 1,True
+SimScale,simscale.com,https://www.simscale.com,https://www.linkedin.com/company/simscale,2012.0,21.6M,21600000.0,Tier 1,True
+Storyblok,storyblok.com,https://www.storyblok.com,https://www.linkedin.com/company/storyblok,2017.0,80M,80000000.0,Tier 1,True
+Deepki,deepki.com,https://www.deepki.com,https://www.linkedin.com/company/deepki,2014.0,28.3M,28310000.0,Tier 1,True
+Quandoo | Online Restaurant Booking,quandoo.com,https://www.quandoo.com,https://www.linkedin.com/company/quandoo,2012.0,116.7M,116700000.0,Tier 1,True
+Choco,choco.com,https://www.choco.com,https://www.linkedin.com/company/choco-app,2018.0,50M,50000000.0,Tier 1,True
+Perkbox,perkbox.com,https://www.perkbox.com,https://www.linkedin.com/company/perkbox,2015.0,47M,47000000.0,Tier 1,True
+jobvalley,jobvalley.com,https://www.jobvalley.com,https://www.linkedin.com/company/jobvalley,2008.0,129M,129000000.0,Tier 1,True
+DiliTrust,dilitrust.com,https://www.dilitrust.com,https://www.linkedin.com/company/dilitrust,2005.0,22.9M,22931000.0,Tier 1,True
+Locala,asklocala.com,https://www.asklocala.com,https://www.linkedin.com/company/ask-locala,2011.0,45.5M,45500000.0,Tier 1,True
+Quinyx,quinyx.com,https://www.quinyx.com,https://www.linkedin.com/company/quinyx,2005.0,42.4M,42400000.0,Tier 1,True
+Agicap,agicap.com,https://www.agicap.com,https://www.linkedin.com/company/agicap,2016.0,45.4M,45400000.0,Tier 1,True
+Gorilla - Energy Margin Intelligence,gorilla.co,https://www.gorilla.co,https://www.linkedin.com/company/gorilladata,2018.0,10.5M,10500000.0,Tier 1,True
+Signaturit Group,signaturit.com,https://www.signaturit.com,https://www.linkedin.com/company/signaturit,2013.0,27.3M,27300000.0,Tier 1,True
+PlayPlay,playplay.com,https://www.playplay.com,https://www.linkedin.com/company/playplay,2017.0,48.3M,48300000.0,Tier 1,True
+bsport,bsport.io,https://www.bsport.io,https://www.linkedin.com/company/bsportio,2018.0,10M,10000000.0,Tier 1,True
+Ziflow,ziflow.com,https://www.ziflow.com,https://www.linkedin.com/company/ziflow,2016.0,22.5M,22500000.0,Tier 1,True
+Dealfront,dealfront.com,https://www.dealfront.com,https://www.linkedin.com/company/dealfront,2011.0,41.2M,41200000.0,Tier 1,True
+Holidu,holidu.com,https://www.holidu.com,https://www.linkedin.com/company/holidu,2014.0,144.7M,144700000.0,Tier 1,True
+Falcon.io,falcon.io,https://www.falcon.io,https://www.linkedin.com/company/falconio,2010.0,27.5M,27500000.0,Tier 1,True
+PrestaShop,prestashop.com,https://www.prestashop.com,https://www.linkedin.com/company/prestashop,2007.0,38.4M,38400000.0,Tier 1,True
+DataGuard,dataguard.com,https://www.dataguard.com,https://www.linkedin.com/company/dataguard1,2018.0,24M,24000000.0,Tier 1,True
+Rise Up,riseup.ai,https://www.riseup.ai,https://www.linkedin.com/company/rise-up-ai-france,2014.0,10M,10000000.0,Tier 1,True
+Rydoo,rydoo.com,https://www.rydoo.com,https://www.linkedin.com/company/rydoo,2011.0,64M,64000000.0,Tier 1,True
+CleverConnect,cleverconnect.com,https://www.cleverconnect.com,https://www.linkedin.com/company/cleverconnect,2010.0,20.9M,20900000.0,Tier 1,True
+ABC Glofox,glofox.com,https://www.glofox.com,https://www.linkedin.com/company/abcglofox,2014.0,22M,22000000.0,Tier 1,True
+Eskimoz,eskimoz.fr,https://www.eskimoz.fr,https://www.linkedin.com/company/eskimoz,2015.0,41M,41000000.0,Tier 1,True
+Planday,planday.com,https://www.planday.com,https://www.linkedin.com/company/planday,2005.0,19M,19000000.0,Tier 1,True
+Streetbees,streetbees.com,https://www.streetbees.com,https://www.linkedin.com/company/streetbees,2015.0,23.6M,23600000.0,Tier 1,True
+Sesame HR,sesamehr.es,https://www.sesamehr.es,https://www.linkedin.com/company/sesamehr,2015.0,23M,23000000.0,Tier 1,True
+PLAYTOMIC,playtomic.com,https://www.playtomic.com,https://www.linkedin.com/company/playtomic,2017.0,233M,233000000.0,Tier 1,True
+Sewan Groupe,sewan.fr,https://www.sewan.fr,https://www.linkedin.com/company/sewangroupe,2007.0,178.6M,178563000.0,Tier 1,True
+Genially,genially.com,https://www.genially.com,https://www.linkedin.com/company/geniallyofficial,2015.0,26.9M,26900000.0,Tier 1,True
+Partoo,partoo.co,https://www.partoo.co,https://www.linkedin.com/company/partoo,2014.0,37M,37000000.0,Tier 1,True
+Yousign,yousign.com,https://www.yousign.com,https://www.linkedin.com/company/yousign,2013.0,39.1M,39100000.0,Tier 1,True
+Stack Overflow,stackoverflow.co,https://www.stackoverflow.co,https://www.linkedin.com/company/stack-overflow,2008.0,175.6M,175600000.0,Tier 1,True
+HackerRank,hackerrank.com,https://www.hackerrank.com,https://www.linkedin.com/company/hackerrank,2012.0,221M,221000000.0,Tier 1,True
+Perplexity,perplexity.ai,https://www.perplexity.ai,https://www.linkedin.com/company/perplexity-ai,2022.0,150M,150000000.0,Tier 1,True
+"Docker, Inc",docker.com,https://www.docker.com,https://www.linkedin.com/company/docker,2013.0,207M,207000000.0,Tier 1,True
+Strava,strava.com,https://www.strava.com,https://www.linkedin.com/company/strava-inc.,2009.0,500M,500000000.0,Tier 1,True
+Cohere,cohere.com,https://www.cohere.com,https://www.linkedin.com/company/cohere-ai,2019.0,150M,150000000.0,Tier 1,True
+"Keeper Security, Inc.",keepersecurity.com,https://www.keepersecurity.com,https://www.linkedin.com/company/keeper-security-inc-,2011.0,90.6M,90600000.0,Tier 1,True
+Runway,runwayml.com,https://www.runwayml.com,https://www.linkedin.com/company/runwayml,2018.0,121.6M,121600000.0,Tier 1,True
+Illumio,illumio.com,https://www.illumio.com,https://www.linkedin.com/company/illumio,2013.0,61.0M,60989000.0,Tier 1,True
+Eightfold AI,eightfold.ai,https://www.eightfold.ai,https://www.linkedin.com/company/eightfoldai,2016.0,405.6M,405600000.0,Tier 1,True
+Consensys,consensys.io,https://www.consensys.io,https://www.linkedin.com/company/consensys-software-inc,2014.0,250M,250000000.0,Tier 1,True
+DataRobot,datarobot.com,https://www.datarobot.com,https://www.linkedin.com/company/datarobot,2012.0,285M,285000000.0,Tier 1,True
+Oyster®,oysterhr.com,https://www.oysterhr.com,https://www.linkedin.com/company/oysterhr,2020.0,96.6M,96600000.0,Tier 1,True
+Seclore,seclore.com,https://www.seclore.com,https://www.linkedin.com/company/seclore,2010.0,59.5M,59500000.0,Tier 1,True
+H2O.ai,h2o.ai,https://www.h2o.ai,https://www.linkedin.com/company/h2oai,2012.0,75M,75000000.0,Tier 1,True
+ClickHouse,clickhouse.com,https://www.clickhouse.com,https://www.linkedin.com/company/clickhouseinc,2021.0,96M,96000000.0,Tier 1,True
+Dataminr,dataminr.com,https://www.dataminr.com,https://www.linkedin.com/company/dataminr,2009.0,200M,200000000.0,Tier 1,True
+Eagle Eye Networks,een.com,https://www.een.com,https://www.linkedin.com/company/eagleeyenetworks,2012.0,112.6M,112588000.0,Tier 1,True
+BlueVoyant,bluevoyant.com,https://www.bluevoyant.com,https://www.linkedin.com/company/bluevoyant,2017.0,213.5M,213500000.0,Tier 1,True
+Stability AI,stability.ai,https://www.stability.ai,https://www.linkedin.com/company/stability-ai,2019.0,50M,50000000.0,Tier 1,True
+Weights & Biases,wandb.ai,https://www.wandb.ai,https://www.linkedin.com/company/wandb,2017.0,13.6M,13600000.0,Tier 1,True
+SambaNova,sambanova.ai,https://www.sambanova.ai,https://www.linkedin.com/company/sambanova,2017.0,100M,100000000.0,Tier 1,True
+Napster Corp.,napster.ai,https://www.napster.ai,https://www.linkedin.com/company/napstercorp,2019.0,113.0M,112999000.0,Tier 1,True
+Drata,drata.com,https://www.drata.com,https://www.linkedin.com/company/drata,2020.0,100M,100000000.0,Tier 1,True
+AdvantageClub.ai,advantageclub.ai,https://www.advantageclub.ai,https://www.linkedin.com/company/advantageclub,2016.0,38M,38000000.0,Tier 1,True
+Conviva,conviva.com,https://www.conviva.com,https://www.linkedin.com/company/conviva,2006.0,59.3M,59300000.0,Tier 1,True
+Level AI,thelevel.ai,https://www.thelevel.ai,https://www.linkedin.com/company/level-ai,2018.0,23.4M,23400000.0,Tier 1,True
+Versa Networks,versa-networks.com,https://www.versa-networks.com,https://www.linkedin.com/company/versa-networks,2012.0,90M,90000000.0,Tier 1,True
+BrightEdge,brightedge.com,https://www.brightedge.com,https://www.linkedin.com/company/brightedge,2007.0,120M,120000000.0,Tier 1,True
+Corporate Finance Institute® (CFI),corporatefinanceinstitute.com,https://www.corporatefinanceinstitute.com,https://www.linkedin.com/school/corporate-finance-institute-cfi,2016.0,79.4M,79400000.0,Tier 1,True
+AngelList,angellist.com,https://www.angellist.com,https://www.linkedin.com/company/angellist,2010.0,80.3M,80300000.0,Tier 1,True
+Codecademy,codecademy.com,https://www.codecademy.com,https://www.linkedin.com/school/codecademy,2011.0,99.2M,99200000.0,Tier 1,True
+Platzi,platzi.com,https://www.platzi.com,https://www.linkedin.com/school/platzi-inc,2012.0,15M,15000000.0,Tier 1,True
+Betterfly,betterfly.com,https://www.betterfly.com,https://www.linkedin.com/company/gobetterfly,2018.0,72M,72000000.0,Tier 1,True
+ButterflyMX,butterflymx.com,https://www.butterflymx.com,https://www.linkedin.com/company/butterflymx,2014.0,65.6M,65600000.0,Tier 1,True
+Together AI,together.ai,https://www.together.ai,https://www.linkedin.com/company/togethercomputer,2022.0,100M,100000000.0,Tier 1,True
+data.ai (by Sensor Tower),data.ai,https://www.data.ai,https://www.linkedin.com/company/dataai,2010.0,49.5M,49500000.0,Tier 1,True
+Vercel,vercel.com,https://www.vercel.com,https://www.linkedin.com/company/vercel,2015.0,200M,200000000.0,Tier 1,True
+Interview Kickstart,interviewkickstart.com,https://www.interviewkickstart.com,https://www.linkedin.com/school/interview-kickstart,2014.0,104.2M,104200000.0,Tier 1,True
+Groq,groq.com,https://www.groq.com,https://www.linkedin.com/company/groq,2016.0,90M,90000000.0,Tier 1,True
+Bright Money,brightmoney.co,https://www.brightmoney.co,https://www.linkedin.com/company/bright-money,2019.0,101.9M,101900000.0,Tier 1,True
+Bolt,bolt.com,https://www.bolt.com,https://www.linkedin.com/company/bolt-com,2014.0,28M,28000000.0,Tier 1,True
+Education,education.com,https://www.education.com,https://www.linkedin.com/company/education12a987b,2021.0,11.3M,11300000.0,Tier 1,True
+MasterClass,masterclass.com,https://www.masterclass.com,https://www.linkedin.com/company/masterclassinc,2015.0,247M,247000000.0,Tier 1,True
+Cybrary,cybrary.it,https://www.cybrary.it,https://www.linkedin.com/company/cybrary,2015.0,26M,26000000.0,Tier 1,True
+Preply,preply.com,https://www.preply.com,https://www.linkedin.com/company/preply,2012.0,485.5M,485500000.0,Tier 1,True
+Rocket Lawyer,rocketlawyer.com,https://www.rocketlawyer.com,https://www.linkedin.com/company/rocket-lawyer-inc,2008.0,73.8M,73800000.0,Tier 1,True
+Replit,replit.com,https://www.replit.com,https://www.linkedin.com/company/repl-it,2016.0,240M,240000000.0,Tier 1,True
+Cockroach Labs,cockroachlabs.com,https://www.cockroachlabs.com,https://www.linkedin.com/company/cockroach-labs,2015.0,30.8M,30800000.0,Tier 1,True
+Tarana Wireless,taranawireless.com,https://www.taranawireless.com,https://www.linkedin.com/company/tarana-wireless-inc,2009.0,221M,221000000.0,Tier 1,True
+Optibus,optibus.com,https://www.optibus.com,https://www.linkedin.com/company/optibus,2014.0,59.6M,59600000.0,Tier 1,True
+Spiceworks,spiceworks.com,https://www.spiceworks.com,https://www.linkedin.com/company/spiceworks,2006.0,80M,80000000.0,Tier 1,True
+Elucidata,elucidata.io,https://www.elucidata.io,https://www.linkedin.com/company/elucidata-corporation,2015.0,22.2M,22200000.0,Tier 1,True
+"Anaconda, Inc.",anaconda.com,https://www.anaconda.com,https://www.linkedin.com/company/anacondainc,2012.0,150M,150000000.0,Tier 1,True
+Educative,educative.io,https://www.educative.io,https://www.linkedin.com/company/educative-inc,2015.0,98.1M,98100000.0,Tier 1,True
+Looker,looker.com,https://www.looker.com,https://www.linkedin.com/company/looker,2012.0,240M,240000000.0,Tier 1,True
+Supabase,supabase.com,https://www.supabase.com,https://www.linkedin.com/company/supabase,2020.0,70M,70000000.0,Tier 1,True
+Duo Security,duo.com,https://www.duo.com,https://www.linkedin.com/company/duosec,2010.0,217.9M,217900000.0,Tier 1,True
+Veracode,veracode.com,https://www.veracode.com,https://www.linkedin.com/company/veracode,2006.0,47M,47000000.0,Tier 1,True
+DataStax,datastax.com,https://www.datastax.com,https://www.linkedin.com/company/datastax,2010.0,246.9M,246900000.0,Tier 1,True
+Synctera,synctera.com,https://www.synctera.com,https://www.linkedin.com/company/synctera,2020.0,23.5M,23500000.0,Tier 1,True
+Cedar,cedar.com,https://www.cedar.com,https://www.linkedin.com/company/cedar-inc.,2016.0,70M,70000000.0,Tier 1,True
+Stash,stash.com,https://www.stash.com,https://www.linkedin.com/company/stashfinancial,2015.0,125M,125000000.0,Tier 1,True
+Zest AI,zest.ai,https://www.zest.ai,https://www.linkedin.com/company/zest-ai,2009.0,30M,30000000.0,Tier 1,True
+KOHO,koho.ca,https://www.koho.ca,https://www.linkedin.com/company/koho,2014.0,108M,108000000.0,Tier 1,True
+interface.ai,interface.ai,https://www.interface.ai,https://www.linkedin.com/company/interface-ai,2019.0,20M,20000000.0,Tier 1,True
+Truora Inc.,truora.com,https://www.truora.com,https://www.linkedin.com/company/truora,2018.0,16M,16000000.0,Tier 1,True
+Railsr,railsr.com,https://www.railsr.com,https://www.linkedin.com/company/railsrglobal,2016.0,40M,40000000.0,Tier 1,True
+Palmetto,palmetto.com,https://www.palmetto.com,https://www.linkedin.com/company/palmetto,2010.0,390.1M,390100000.0,Tier 1,True
+RepeatMD,repeatmd.com,https://www.repeatmd.com,https://www.linkedin.com/company/repeatmd,2021.0,13.1M,13100000.0,Tier 1,True
+Alpaca,alpaca.markets,https://www.alpaca.markets,https://www.linkedin.com/company/alpacamarkets,2017.0,100M,100000000.0,Tier 1,True
+TRM Labs,trmlabs.com,https://www.trmlabs.com,https://www.linkedin.com/company/trmlabs,2018.0,11.3M,11300000.0,Tier 1,True
+SEON,seon.io,https://www.seon.io,https://www.linkedin.com/company/seon-tech,2017.0,34.8M,34800000.0,Tier 1,True
+Upside,upside.com,https://www.upside.com,https://www.linkedin.com/company/upside,2016.0,44.2M,44200000.0,Tier 1,True
+Borrowell,borrowell.com,https://www.borrowell.com,https://www.linkedin.com/company/borrowell,2014.0,20M,20000000.0,Tier 1,True
+"Coalition, Inc.",coalitioninc.com,https://www.coalitioninc.com,https://www.linkedin.com/company/coalitioninc,2017.0,324.5M,324500000.0,Tier 1,True
+Bitsight,bitsight.com,https://www.bitsight.com,https://www.linkedin.com/company/bitsight,2011.0,200M,200000000.0,Tier 1,True
+Nozomi Networks,nozominetworks.com,https://www.nozominetworks.com,https://www.linkedin.com/company/nozomi-networks-sa,2013.0,74.7M,74695000.0,Tier 1,True
+PortSwigger,portswigger.net,https://www.portswigger.net,https://www.linkedin.com/company/portswigger,2008.0,48M,48000000.0,Tier 1,True
+Claroty,claroty.com,https://www.claroty.com,https://www.linkedin.com/company/claroty,2015.0,144M,144000000.0,Tier 1,True
+Pentera,pentera.io,https://www.pentera.io,https://www.linkedin.com/company/penterasecurity,2015.0,100M,100000000.0,Tier 1,True
+Immersive,immersivelabs.com,https://www.immersivelabs.com,https://www.linkedin.com/company/immersive-labs-limited,2017.0,80M,80000000.0,Tier 1,True
+IronCircle,ironcircle.com,https://www.ironcircle.com,https://www.linkedin.com/company/ironcirclecyber,2025.0,50M,50000000.0,Tier 1,True
+Cyberbit,cyberbit.com,https://www.cyberbit.com,https://www.linkedin.com/company/cyberbit,2015.0,112.5M,112500000.0,Tier 1,True
+Magnet Forensics,magnetforensics.com,https://www.magnetforensics.com,https://www.linkedin.com/company/magnet-forensics,2009.0,98.9M,98934000.0,Tier 1,True
+FutureLearn,futurelearn.com,https://www.futurelearn.com,https://www.linkedin.com/company/futurelearn,2012.0,16M,16000000.0,Tier 1,True
+BLACKCLOAK,blackcloak.io,https://www.blackcloak.io,https://www.linkedin.com/company/blackcloak,2018.0,12.5M,12500000.0,Tier 1,True
+Orca Security,orca.security,https://www.orca.security,https://www.linkedin.com/company/orca-security,2019.0,64.2M,64200000.0,Tier 1,True
+Action1,action1.com,https://www.action1.com,https://www.linkedin.com/company/action1corp,2018.0,15M,15000000.0,Tier 1,True
+ThreatLocker,threatlocker.com,https://www.threatlocker.com,https://www.linkedin.com/company/threatlockerinc,2017.0,100M,100000000.0,Tier 1,True
+Securonix,securonix.com,https://www.securonix.com,https://www.linkedin.com/company/securonix,2008.0,105M,105000000.0,Tier 1,True
+Armis,armis.com,https://www.armis.com,https://www.linkedin.com/company/armis-security,2015.0,300M,300000000.0,Tier 1,True
+"Red Canary, a Zscaler company",redcanary.com,https://www.redcanary.com,https://www.linkedin.com/company/redcanary,2013.0,140M,140000000.0,Tier 1,True
+Cyware,cyware.com,https://www.cyware.com,https://www.linkedin.com/company/cyware,2016.0,21M,21000000.0,Tier 1,True
+RANE,ranenetwork.com,https://www.ranenetwork.com,https://www.linkedin.com/company/rane,2013.0,29.8M,29800000.0,Tier 1,True
+Fidelis Security,fidelissecurity.com,https://www.fidelissecurity.com,https://www.linkedin.com/company/fidelissecurityllc,2023.0,44.5M,44500000.0,Tier 1,True
+Hugging Face,huggingface.co,https://www.huggingface.co,https://www.linkedin.com/company/huggingface,2016.0,130.1M,130100000.0,Tier 1,True
+"AI Central | ChatGPT & Generative AI Tutorials, Prompts & Use Cases for Gemini, DeepSeek, Claude",beehiiv.com,https://www.beehiiv.com,https://www.linkedin.com/company/chat-gpt-central,2023.0,30M,30000000.0,Tier 1,True
+Olive,oliveai.com,https://www.oliveai.com,https://www.linkedin.com/company/oliveai,2012.0,120M,120000000.0,Tier 1,True
+Moloco,moloco.com,https://www.moloco.com,https://www.linkedin.com/company/moloco,2013.0,92.4M,92400000.0,Tier 1,True
+Netradyne,netradyne.com,https://www.netradyne.com,https://www.linkedin.com/company/netradyne,2015.0,35M,35000000.0,Tier 1,True
+Dremio,dremio.com,https://www.dremio.com,https://www.linkedin.com/company/dremio,2015.0,41.5M,41500000.0,Tier 1,True
+Aidoc,aidoc.com,https://www.aidoc.com,https://www.linkedin.com/company/aidoc,2016.0,95M,95000000.0,Tier 1,True
+OWKIN,owkin.com,https://www.owkin.com,https://www.linkedin.com/company/owkin,2016.0,125.4M,125400000.0,Tier 1,True
+Fictiv,fictiv.com,https://www.fictiv.com,https://www.linkedin.com/company/fictiv,2013.0,67.6M,67600000.0,Tier 1,True
+Deepgram,deepgram.com,https://www.deepgram.com,https://www.linkedin.com/company/deepgram,2015.0,24.2M,24200000.0,Tier 1,True
+Seedtag,seedtag.com,https://www.seedtag.com,https://www.linkedin.com/company/seedtag,2014.0,83.8M,83800000.0,Tier 1,True
+Sword Health,swordhealth.com,https://www.swordhealth.com,https://www.linkedin.com/company/swordhealth,2015.0,235M,235000000.0,Tier 1,True
+Prophecy,prophecy.ai,https://www.prophecy.ai,https://www.linkedin.com/company/prophecy-ai,2017.0,10.6M,10600000.0,Tier 1,True
+LILT AI,lilt.com,https://www.lilt.com,https://www.linkedin.com/company/lilthq,2015.0,30.3M,30300000.0,Tier 1,True
+Versatile,versatile.ai,https://www.versatile.ai,https://www.linkedin.com/company/versatileai,2016.0,29.3M,29300000.0,Tier 1,True
+Pepper,pepper.inc,https://www.pepper.inc,https://www.linkedin.com/company/pepperinc,2017.0,90.8M,90800000.0,Tier 1,True
+Thrive Global,thriveglobal.com,https://www.thriveglobal.com,https://www.linkedin.com/company/thrive-global,2016.0,173M,173000000.0,Tier 1,True
+LTK,shopltk.com,https://www.shopltk.com,https://www.linkedin.com/company/shopltk,2011.0,238M,238000000.0,Tier 1,True
+Teal,tealhq.com,https://www.tealhq.com,https://www.linkedin.com/company/tealhq,2019.0,52.9M,52900000.0,Tier 1,True
+Dodge Data & Analytics,construction.com,https://www.construction.com,https://www.linkedin.com/company/dodge-data-and-analytics,2006.0,88.5M,88500000.0,Tier 1,True
+WHOOP,whoop.com,https://www.whoop.com,https://www.linkedin.com/company/whoop,2012.0,260M,260000000.0,Tier 1,True
+ŌURA,ouraring.com,https://www.ouraring.com,https://www.linkedin.com/company/oura,2013.0,500M,500000000.0,Tier 1,True
+Blockworks,blockworks.co,https://www.blockworks.co,https://www.linkedin.com/company/the-blockworks-group,2017.0,16M,16000000.0,Tier 1,True
+Statsig,statsig.com,https://www.statsig.com,https://www.linkedin.com/company/statsig,2021.0,40M,40000000.0,Tier 1,True
+Alation,alation.com,https://www.alation.com,https://www.linkedin.com/company/alation,2012.0,160.4M,160400000.0,Tier 1,True
+Checkmate,itsacheckmate.com,https://www.itsacheckmate.com,https://www.linkedin.com/company/itsacheckmate,2016.0,123.2M,123200000.0,Tier 1,True
+15Five,15five.com,https://www.15five.com,https://www.linkedin.com/company/15five,2011.0,152.6M,152600000.0,Tier 1,True
+Lattice,lattice.com,https://www.lattice.com,https://www.linkedin.com/company/lattice-hq,2015.0,127.1M,127100000.0,Tier 1,True
+Ashby,ashbyhq.com,https://www.ashbyhq.com,https://www.linkedin.com/company/ashbyhq,2018.0,28.2M,28200000.0,Tier 1,True
+Speexx,speexx.com,https://www.speexx.com,https://www.linkedin.com/company/speexx,2012.0,79.7M,79700000.0,Tier 1,True
+Jobvite,jobvite.com,https://www.jobvite.com,https://www.linkedin.com/company/jobvite,2006.0,92.3M,92300000.0,Tier 1,True
+Contra,contra.com,https://www.contra.com,https://www.linkedin.com/company/contrahq,2019.0,96.2M,96200000.0,Tier 1,True
+TaskHuman,taskhuman.com,https://www.taskhuman.com,https://www.linkedin.com/company/taskhuman,2017.0,10M,10000000.0,Tier 1,True
+iMocha,imocha.io,https://www.imocha.io,https://www.linkedin.com/company/imocha,2015.0,33.7M,33700000.0,Tier 1,True
+Mesh,mesh.ai,https://www.mesh.ai,https://www.linkedin.com/company/meshdotai,2020.0,19.4M,19400000.0,Tier 1,True
+Namely,namely.com,https://www.namely.com,https://www.linkedin.com/company/namely,2012.0,65M,65000000.0,Tier 1,True
+Apploi,apploi.com,https://www.apploi.com,https://www.linkedin.com/company/apploi,2014.0,19.9M,19900000.0,Tier 1,True
+Visit.org,visit.org,https://www.visit.org,https://www.linkedin.com/company/visit-org,2015.0,20.9M,20900000.0,Tier 1,True
+CodeSignal,codesignal.com,https://www.codesignal.com,https://www.linkedin.com/company/codesignal,2014.0,53.8M,53800000.0,Tier 1,True
+Human Interest,humaninterest.com,https://www.humaninterest.com,https://www.linkedin.com/company/humaninterest,2015.0,200M,200000000.0,Tier 1,True
+Legion Technologies,legion.co,https://www.legion.co,https://www.linkedin.com/company/legionco,2016.0,68M,68000000.0,Tier 1,True
+Instaffo,instaffo.com,https://www.instaffo.com,https://www.linkedin.com/company/instaffo-gmbh,2014.0,15M,15000000.0,Tier 1,True
+Merge,merge.dev,https://www.merge.dev,https://www.linkedin.com/company/merge-api,2020.0,20.8M,20800000.0,Tier 1,True
+Fetcher,fetcher.ai,https://www.fetcher.ai,https://www.linkedin.com/company/fetcherai,2016.0,31.2M,31200000.0,Tier 1,True
+Karat,karat.com,https://www.karat.com,https://www.linkedin.com/company/karat,2014.0,73.6M,73600000.0,Tier 1,True
+Talview,talview.com,https://www.talview.com,https://www.linkedin.com/company/talview,2017.0,26.1M,26100000.0,Tier 1,True
+Fountain,fountain.com,https://www.fountain.com,https://www.linkedin.com/company/fountaininc,2014.0,50M,50000000.0,Tier 1,True
+Nava Benefits,navabenefits.com,https://www.navabenefits.com,https://www.linkedin.com/company/nava-benefits,2019.0,48.6M,48600000.0,Tier 1,True
+Harver,harver.com,https://www.harver.com,https://www.linkedin.com/company/harver,2015.0,20M,20000000.0,Tier 1,True
+"Lively, Inc.",livelyme.com,https://www.livelyme.com,https://www.linkedin.com/company/livelyhsa,2016.0,12.5M,12500000.0,Tier 1,True
+Bennie,bennie.com,https://www.bennie.com,https://www.linkedin.com/company/benniehealth,2019.0,43.7M,43700000.0,Tier 1,True
+Wagepoint,wagepoint.com,https://www.wagepoint.com,https://www.linkedin.com/company/wagepoint,2012.0,14M,14000000.0,Tier 1,True
+Avery Technical Resources,workrise.com,https://www.workrise.com,https://www.linkedin.com/company/avery-technical-resources-inc,2008.0,100M,100000000.0,Tier 1,True
+Newsela,newsela.com,https://www.newsela.com,https://www.linkedin.com/company/newsela,2013.0,109M,109000000.0,Tier 1,True
+Babbel,babbel.com,https://www.babbel.com,https://www.linkedin.com/company/babbel-com,2007.0,367M,367000000.0,Tier 1,True
+Securly,securly.com,https://www.securly.com,https://www.linkedin.com/company/securly,2012.0,75M,75000000.0,Tier 1,True
+"Klaxoon, a Wrike company",klaxoon.com,https://www.klaxoon.com,https://www.linkedin.com/company/klaxoon,2015.0,16M,16000000.0,Tier 1,True
+Slang,slangapp.com,https://www.slangapp.com,https://www.linkedin.com/company/meetslang,2013.0,50M,50000000.0,Tier 1,True
+Age of Learning,ageoflearning.com,https://www.ageoflearning.com,https://www.linkedin.com/company/age-of-learning,2007.0,126.8M,126800000.0,Tier 1,True
+Subject,subject.com,https://www.subject.com,https://www.linkedin.com/company/trysubject,2020.0,15M,15000000.0,Tier 1,True
+Top Hat,tophat.com,https://www.tophat.com,https://www.linkedin.com/company/top-hat-hq,2009.0,68M,68000000.0,Tier 1,True
+CYPHER Learning,cypherlearning.com,https://www.cypherlearning.com,https://www.linkedin.com/company/cypher-learning,2009.0,10M,10000000.0,Tier 1,True
+Amira Learning,amiralearning.com,https://www.amiralearning.com,https://www.linkedin.com/company/amira-learning,2018.0,82.9M,82900000.0,Tier 1,True
+Panopto,panopto.com,https://www.panopto.com,https://www.linkedin.com/company/panopto,2007.0,23.6M,23600000.0,Tier 1,True
+simpleclub,simpleclub.com,https://www.simpleclub.com,https://www.linkedin.com/company/simpleclub,2015.0,17.6M,17600000.0,Tier 1,True
+Examity,examity.com,https://www.examity.com,https://www.linkedin.com/company/examity,2013.0,86.6M,86600000.0,Tier 1,True
+BetterLesson,betterlesson.com,https://www.betterlesson.com,https://www.linkedin.com/company/betterlesson,2008.0,15M,15000000.0,Tier 1,True
+Kortext,kortext.com,https://www.kortext.com,https://www.linkedin.com/company/kortext,2013.0,29M,29000000.0,Tier 1,True
+Atom Learning,atomlearning.com,https://www.atomlearning.com,https://www.linkedin.com/company/atom-learning,2018.0,17M,17000000.0,Tier 1,True
+ROLI,roli.com,https://www.roli.com,https://www.linkedin.com/company/roli,2009.0,14.4M,14400000.0,Tier 1,True
+Blueshift,blueshift.com,https://www.blueshift.com,https://www.linkedin.com/company/blueshift-labs-inc,2014.0,12.4M,12400000.0,Tier 1,True
+Uwill,uwill.com,https://www.uwill.com,https://www.linkedin.com/company/uwilltech,2020.0,31M,31000000.0,Tier 1,True
+SchoolMint,schoolmint.com,https://www.schoolmint.com,https://www.linkedin.com/company/schoolmint,2013.0,45.3M,45300000.0,Tier 1,True
+Pathstream,pathstream.com,https://www.pathstream.com,https://www.linkedin.com/company/pathstream,2018.0,18M,18000000.0,Tier 1,True
+Pathify,pathify.com,https://www.pathify.com,https://www.linkedin.com/company/pathifyeducation,2011.0,34.1M,34100000.0,Tier 1,True
+Upswing,upswing.io,https://www.upswing.io,https://www.linkedin.com/company/upswing-io,2013.0,27.1M,27100000.0,Tier 1,True
+WeVideo,wevideo.com,https://www.wevideo.com,https://www.linkedin.com/company/wevideo,2011.0,18M,18000000.0,Tier 1,True
+Tinkergarten,tinkergarten.com,https://www.tinkergarten.com,https://www.linkedin.com/company/tinkergarten,2012.0,10M,10000000.0,Tier 1,True
+Tealium,tealium.com,https://www.tealium.com,https://www.linkedin.com/company/tealium,2011.0,100M,100000000.0,Tier 1,True
+Innovid,innovid.com,https://www.innovid.com,https://www.linkedin.com/company/innovid,2007.0,151.6M,151557000.0,Tier 1,True
+Zeotap,zeotap.com,https://www.zeotap.com,https://www.linkedin.com/company/zeotap,2014.0,24.9M,24900000.0,Tier 1,True
+Wunderkind,wunderkind.co,https://www.wunderkind.co,https://www.linkedin.com/company/bewunderkind,2010.0,204.7M,204700000.0,Tier 1,True
+SheerID,sheerid.com,https://www.sheerid.com,https://www.linkedin.com/company/sheerid,2011.0,42M,42000000.0,Tier 1,True
+BlueConic,blueconic.com,https://www.blueconic.com,https://www.linkedin.com/company/blueconic,2010.0,26.2M,26200000.0,Tier 1,True
+Bizzabo,bizzabo.com,https://www.bizzabo.com,https://www.linkedin.com/company/bizzabo,2011.0,43.9M,43900000.0,Tier 1,True
+Flytxt,flytxt.ai,https://www.flytxt.ai,https://www.linkedin.com/company/flytxt,2008.0,75M,75000000.0,Tier 1,True
+Act-On Software,act-on.com,https://www.act-on.com,https://www.linkedin.com/company/act-on-software,2008.0,44M,44000000.0,Tier 1,True
+Lotame,lotame.com,https://www.lotame.com,https://www.linkedin.com/company/lotame,2006.0,125.2M,125200000.0,Tier 1,True
+Brand Networks,bn.co,https://www.bn.co,https://www.linkedin.com/company/bnanaugeocompany,2006.0,27.5M,27500000.0,Tier 1,True
+PX.com,px.com,https://www.px.com,https://www.linkedin.com/company/px-platform,2010.0,14M,14000000.0,Tier 1,True
+Levitate,levitate.ai,https://www.levitate.ai,https://www.linkedin.com/company/real-magic,2017.0,28.8M,28800000.0,Tier 1,True
+Foleon,foleon.com,https://www.foleon.com,https://www.linkedin.com/company/foleon,2013.0,13M,13000000.0,Tier 1,True
+Infinity,infinity.co,https://www.infinity.co,https://www.linkedin.com/company/infinityco,2010.0,15M,15000000.0,Tier 1,True
+Redpoint Global Inc.,redpointglobal.com,https://www.redpointglobal.com,https://www.linkedin.com/company/redpoint-global-inc,2006.0,15.2M,15200000.0,Tier 1,True
+Stirista,stirista.com,https://www.stirista.com,https://www.linkedin.com/company/stirista-global,2009.0,58.5M,58500000.0,Tier 1,True
+Primelis,primelis.com,https://www.primelis.com,https://www.linkedin.com/company/primelis-global,2009.0,19.6M,19600000.0,Tier 1,True
+Unbiased,unbiased.co.uk,https://www.unbiased.co.uk,https://www.linkedin.com/company/unbiased-co-uk,2010.0,25M,25000000.0,Tier 1,True
