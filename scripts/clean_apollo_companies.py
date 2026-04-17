@@ -1,11 +1,12 @@
 """Clean the Apollo 1000 Companies CSV to Twain's B2B SaaS ICP.
 
 Filters, de-duplicates, normalizes URLs, and removes any company whose domain
-is already in the active "April NA" or "April EU" Email Bison campaigns.
+appears in the "April NA" or "April EU" outbound contact CSVs
+(or, as a fallback, in the corresponding live Email Bison campaigns).
 """
 
 import argparse
-import os
+import re
 import sys
 from pathlib import Path
 
@@ -17,7 +18,11 @@ sys.path.insert(0, str(REPO_ROOT))
 
 SRC = REPO_ROOT / "Twain_Apollo_1000_Companies-Default-view-export-1776435726357.csv"
 OUT = REPO_ROOT / "data" / "apollo_1000_companies_cleaned.csv"
-EXCLUDE_CAMPAIGNS = ("April NA", "April EU")
+EXCLUSION_CSVS = {
+    "April NA": REPO_ROOT / "USA April Outbound.csv",
+    "April EU": REPO_ROOT / "EU April Outbound.csv",
+}
+CONTACT_COMPANY_COLUMN = "Company"
 
 REVENUE_MIN = 10_000_000
 REVENUE_MAX = 500_000_000
@@ -33,52 +38,45 @@ def normalize_url(u):
     return u
 
 
-def _unwrap(payload, keys=("data", "campaigns", "leads")):
-    if isinstance(payload, dict):
-        for k in keys:
-            if k in payload and isinstance(payload[k], list):
-                return payload[k]
-        return []
-    return payload or []
+def normalize_name(s) -> str:
+    """Lowercase and strip all non-alphanumerics (matches 'Orum 🥇' to 'orum')."""
+    if pd.isna(s):
+        return ""
+    return re.sub(r"[^a-z0-9]+", "", str(s).lower())
 
 
-def fetch_campaign_domains(client, name: str):
-    campaigns = _unwrap(client.list_campaigns())
-    target = next(
-        (c for c in campaigns if c.get("name", "").strip().lower() == name.lower()),
-        None,
-    )
-    if not target:
-        available = ", ".join(c.get("name", "?") for c in campaigns) or "(none)"
-        raise SystemExit(f"Campaign '{name}' not found. Available: {available}")
+def names_from_contacts_csv(path: Path) -> set[str]:
+    df = pd.read_csv(path)
+    df.columns = [c.strip().lstrip("\ufeff") for c in df.columns]
+    if CONTACT_COMPANY_COLUMN not in df.columns:
+        raise SystemExit(
+            f"{path.name} has no '{CONTACT_COMPANY_COLUMN}' column (cols: {list(df.columns)})"
+        )
+    return {n for n in df[CONTACT_COMPANY_COLUMN].map(normalize_name) if n}
 
-    campaign_id = target["id"]
-    domains: set[str] = set()
-    page = 1
-    while True:
-        result = client.list_leads(campaign_id=campaign_id, page=page, per_page=100)
-        leads = _unwrap(result)
-        if not leads:
-            break
-        for lead in leads:
-            email = (lead.get("email") or "").strip().lower()
-            if "@" in email:
-                domains.add(email.split("@", 1)[1])
-            d = (lead.get("domain") or "").strip().lower()
-            if d:
-                domains.add(d)
-        if len(leads) < 100:
-            break
-        page += 1
-    return campaign_id, domains
+
+def build_exclusion_set():
+    per_source: dict[str, int] = {}
+    exclude: set[str] = set()
+    missing_csvs = [name for name, p in EXCLUSION_CSVS.items() if not p.exists()]
+    if missing_csvs:
+        raise SystemExit(
+            f"Missing exclusion CSVs: {missing_csvs}. "
+            f"Expected files: {[str(p) for p in EXCLUSION_CSVS.values()]}"
+        )
+    for name, path in EXCLUSION_CSVS.items():
+        names = names_from_contacts_csv(path)
+        per_source[f"{name} ({path.name})"] = len(names)
+        exclude |= names
+    return exclude, per_source
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--skip-bison",
+        "--skip-exclusion",
         action="store_true",
-        help="Skip the Email Bison exclusion step (use when EMAILBISON_API_TOKEN is not set).",
+        help="Skip the April NA/EU exclusion step.",
     )
     args = parser.parse_args()
 
@@ -112,27 +110,16 @@ def main():
         if col in df.columns:
             df[col] = df[col].map(normalize_url)
 
-    exclude: set[str] = set()
-    per_campaign: dict[str, int] = {}
-    skip_bison = args.skip_bison or not os.environ.get("EMAILBISON_API_TOKEN")
-    if skip_bison:
-        print(
-            "WARNING: skipping Email Bison exclusion "
-            "(set EMAILBISON_API_TOKEN and rerun without --skip-bison to apply).",
-            file=sys.stderr,
-        )
+    if args.skip_exclusion:
+        exclude, per_source = set(), {}
+        print("Skipping April NA/EU exclusion (--skip-exclusion).", file=sys.stderr)
     else:
-        from src.emailbison_client import EmailBisonClient  # noqa: WPS433
-
-        client = EmailBisonClient()
-        for name in EXCLUDE_CAMPAIGNS:
-            _, domains = fetch_campaign_domains(client, name)
-            per_campaign[name] = len(domains)
-            exclude |= domains
+        exclude, per_source = build_exclusion_set()
 
     before = len(df)
-    df = df[~df["Domain"].isin(exclude)]
-    eb_drop = before - len(df)
+    apollo_name_key = df["Company Name"].map(normalize_name)
+    df = df[~apollo_name_key.isin(exclude)]
+    exclude_drop = before - len(df)
 
     OUT.parent.mkdir(exist_ok=True)
     df.to_csv(OUT, index=False)
@@ -140,10 +127,10 @@ def main():
     print(
         f"{n0} -> {len(df)}  "
         f"(saas:-{saas_drop} rev:-{rev_drop} year:-{year_drop} "
-        f"domain:-{domain_drop} bison:-{eb_drop})"
+        f"domain:-{domain_drop} exclusion:-{exclude_drop})"
     )
-    for name, count in per_campaign.items():
-        print(f"  {name}: {count} unique domains in exclusion set")
+    for src, count in per_source.items():
+        print(f"  {src}: {count} unique domains in exclusion set")
     print(f"Wrote {OUT}")
 
 
